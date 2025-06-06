@@ -87,7 +87,28 @@ function showScreen(screenId) {
 function loadQuestion() {
     const q = questions[currentQuestionIndex];
     questionNumberEl.textContent = `Domanda ${currentQuestionIndex + 1} di ${totalQuestions}`;
-    questionTextEl.textContent = q.quest;
+
+    // Pulisci il contenuto precedente
+    questionTextEl.innerHTML = q.quest;
+
+    // Aggiungi l'immagine della domanda se presente
+    if (q.image && q.image.trim() !== "") {
+        const imgContainer = document.createElement("div");
+        imgContainer.style.margin = "15px 0";
+        imgContainer.style.textAlign = "center";
+
+        const img = document.createElement("img");
+        img.src = q.image;
+        img.style.maxWidth = "100%";
+        img.style.maxHeight = "300px";
+        img.style.borderRadius = "8px";
+        img.style.boxShadow = "0 4px 8px rgba(0,0,0,0.1)";
+        img.alt = "Illustrazione della domanda";
+
+        imgContainer.appendChild(img);
+        questionTextEl.appendChild(imgContainer);
+    }
+
     answersContainerEl.innerHTML = "";
     feedbackEl.classList.add("hidden");
     feedbackEl.textContent = "";
@@ -95,7 +116,32 @@ function loadQuestion() {
     q.answers.forEach((answer, index) => {
         const btn = document.createElement("div");
         btn.classList.add("answer-option");
-        btn.textContent = answer.text;
+
+        // Aggiungi il testo della risposta
+        const textSpan = document.createElement("span");
+        textSpan.textContent = answer.text;
+        btn.appendChild(textSpan);
+
+        // Aggiungi l'immagine della risposta se presente
+        if (answer.image && answer.image.trim() !== "") {
+            const imgContainer = document.createElement("div");
+            imgContainer.style.marginTop = "10px";
+            imgContainer.style.textAlign = "center";
+
+            const img = document.createElement("img");
+            img.src = answer.image;
+            img.style.maxWidth = "100%";
+            img.style.maxHeight = "150px";
+            img.style.borderRadius = "4px";
+            img.alt = "Illustrazione della risposta";
+
+            imgContainer.appendChild(img);
+            btn.appendChild(imgContainer);
+
+            // Aggiungi classe per risposte con immagini
+            btn.classList.add("has-image");
+        }
+
         btn.onclick = () => selectAnswer(index, btn);
         answersContainerEl.appendChild(btn);
     });
@@ -113,7 +159,10 @@ function selectAnswer(index, element) {
         wrongAnswers.push({
             question: q.quest,
             yourAnswer: q.answers[index].text,
-            correctAnswer: q.answers[correct].text
+            correctAnswer: q.answers[correct].text,
+            questionImage: q.image || null,
+            yourAnswerImage: q.answers[index].image || null,
+            correctAnswerImage: q.answers[correct].image || null
         });
     }
 
@@ -181,12 +230,7 @@ function shuffleArray(array) {
         [array[i], array[j]] = [array[j], array[i]];
     }
 }
-
-// Carica tutti i quiz all'avvio
-window.onload = () => {
-    loadAllQuestions();
-};
-
+// Aggiungi gli event listener per i pulsanti del menu
 function showWrongAnswers() {
     const container = document.getElementById("wrongAnswersContainer");
     const list = document.getElementById("wrongAnswersList");
@@ -199,13 +243,31 @@ function showWrongAnswers() {
             list.innerHTML = "<p>Nessuna risposta sbagliata! 🎉</p>";
         } else {
             wrongAnswers.forEach((item, index) => {
-                list.innerHTML += `
+                let html = `
                     <div class="wrong-answer-item" style="margin-bottom: 20px; padding: 15px; background: #f8f9fa; border-radius: 8px;">
-                        <p><strong>Domanda ${index + 1}:</strong> ${item.question}</p>
-                        <p style="color: #dc3545;">❌ La tua risposta: ${item.yourAnswer}</p>
-                        <p style="color: #28a745;">✅ Risposta corretta: ${item.correctAnswer}</p>
-                    </div>
-                `;
+                        <p><strong>Domanda ${index + 1}:</strong> ${item.question}</p>`;
+
+                // Aggiungi immagine della domanda se presente
+                if (item.questionImage) {
+                    html += `<img src="${item.questionImage}" style="max-width: 100%; max-height: 200px; margin: 10px 0; border-radius: 8px;">`;
+                }
+
+                html += `<p style="color: #dc3545;">❌ La tua risposta: ${item.yourAnswer}</p>`;
+
+                // Aggiungi immagine della risposta sbagliata se presente
+                if (item.yourAnswerImage) {
+                    html += `<img src="${item.yourAnswerImage}" style="max-width: 100%; max-height: 150px; margin: 5px 0 10px 0; border-radius: 4px;">`;
+                }
+
+                html += `<p style="color: #28a745;">✅ Risposta corretta: ${item.correctAnswer}</p>`;
+
+                // Aggiungi immagine della risposta corretta se presente
+                if (item.correctAnswerImage) {
+                    html += `<img src="${item.correctAnswerImage}" style="max-width: 100%; max-height: 150px; margin: 5px 0 0 0; border-radius: 4px;">`;
+                }
+
+                html += `</div>`;
+                list.innerHTML += html;
             });
         }
 
@@ -216,3 +278,9 @@ function showWrongAnswers() {
         btn.textContent = "Mostra Risposte Sbagliate";
     }
 }
+
+// Carica tutti i quiz all'avvio
+window.onload = () => {
+    loadAllQuestions();
+};
+

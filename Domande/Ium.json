@@ -3077,5 +3077,1963 @@
     ],
     "correct": 1,
     "image": ""
+  },
+  {
+    "quest": "143) Nel contesto dell'informatica pervasiva, un sistema che segue il principio dell'intelligenza appropriata:",
+    "answers": [
+      {
+        "text": "Raramente fa previsioni corrette;",
+        "image": ""
+      },
+      {
+        "text": "Non causa problemi in caso di previsione errata;",
+        "image": ""
+      },
+      {
+        "text": "Fa sempre previsioni corrette;",
+        "image": ""
+      },
+      {
+        "text": "Si blocca a seguito di una previsione errata;",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "144) Per quanto riguarda i dispositivi di input che utilizzano la tastiera, è corretto affermare che:",
+    "answers": [
+      {
+        "text": "Non ci sono differenze significative per un dattilografo esperto;",
+        "image": ""
+      },
+      {
+        "text": "La tastiera QWERTY garantisce una velocità maggiore e una fatica minore rispetto a tutti gli altri tipi di tastiere esistenti;",
+        "image": ""
+      },
+      {
+        "text": "La tastiera DVORAK assicura meno fatica, ma è più lenta della tastiera QWERTY;",
+        "image": ""
+      },
+      {
+        "text": "La tastiera DVORAK, anche se caratterizzata dallo stesso layout fisico della tastiera QWERTY, fornisce una velocità maggiore;",
+        "image": ""
+      }
+    ],
+    "correct": 3,
+    "image": ""
+  },
+  {
+    "quest": "145) Gli stili di interazione basati sull'uso dei gesti, rispetto agli stili WIMP basati sull'uso del mouse:",
+    "answers": [
+      {
+        "text": "Sono caratterizzati da una minore espressività;",
+        "image": ""
+      },
+      {
+        "text": "Sono caratterizzati da un alto grado di standardizzazione;",
+        "image": ""
+      },
+      {
+        "text": "Sono caratterizzati da una mancanza di standardizzazione;",
+        "image": ""
+      },
+      {
+        "text": "Hanno come punto di forza l'uso di un linguaggio universale, adottato da persone appartenenti a culture, fasce d'età e contesti sociali diversi;",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "146) Le interfacce industriali sono diverse dalle interfacce a manipolazione diretta perché:",
+    "answers": [
+      {
+        "text": "Non hanno un'interfaccia di output;",
+        "image": ""
+      },
+      {
+        "text": "Il feedback per l'operatore deriva dall'osservazione diretta del mondo reale e da un'interfaccia di output;",
+        "image": ""
+      },
+      {
+        "text": "Non hanno un'interfaccia di input;",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "147) Nell’ambito dell’architettura dell’informazione, che cosa si intende per navigazione verticale?",
+    "answers": [
+      {
+        "text": "La navigazione tra elementi della gerarchia informativa che sono figli di uno stesso padre",
+        "image": ""
+      },
+      {
+        "text": "La navigazione che avviene attraverso widget disposti verticalmente nel layout",
+        "image": ""
+      },
+      {
+        "text": "La navigazione tra elementi della gerarchia informativa che hanno una relazione padre figlio",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "148) Nell’ambito dell’architettura dell’informazione, gli schemi organizzativi esatti:",
+    "answers": [
+      {
+        "text": "sono utili per ricerche di tipo esplorativo",
+        "image": ""
+      },
+      {
+        "text": "non sono facili da progettare e da manutenere",
+        "image": ""
+      },
+      {
+        "text": "sono utili per ricerche nelle quali l’utente spesso conosce già il nome delle risorse che sta cercando",
+        "image": ""
+      },
+      {
+        "text": "non includono gli schemi cronologici",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "149) È corretto dire che le tastiere QWERTY sono state progettate per:",
+    "answers": [
+      {
+        "text": "superare la velocità di battitura raggiungibile con le tastiere DVORAK",
+        "image": ""
+      },
+      {
+        "text": "garantire la massima velocità nella digitazione",
+        "image": ""
+      },
+      {
+        "text": "ridurre gli inconvenienti meccanici durante la digitazione",
+        "image": ""
+      },
+      {
+        "text": "equiparare la velocità della scrittura manuale",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "150) Nell’ambito del modello definito come Interaction Framework, la fase di articolazione indica:",
+    "answers": [
+      {
+        "text": "la fase di conversione del core language in output language",
+        "image": ""
+      },
+      {
+        "text": "la fase di conversione del task language in input language",
+        "image": ""
+      },
+      {
+        "text": "la fase di conversione dell’output language in task language",
+        "image": ""
+      },
+      {
+        "text": "la fase di conversione dell’input language in task language",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "151) È corretto dire che, nel contesto del tempo di risposta a uno stimolo, il tempo di reazione:",
+    "answers": [
+      {
+        "text": "è funzione del canale sensoriale",
+        "image": ""
+      },
+      {
+        "text": "aumenta nel caso della reazione a un segnale proveniente da più canali sensoriali",
+        "image": ""
+      },
+      {
+        "text": "dipende dall’età",
+        "image": ""
+      }
+    ],
+    "correct": 0,
+    "image": ""
+  },
+  {
+    "quest": "152) Definire quale dei seguenti parametri non viene considerato nella definizione di engagement secondo O'Brien:",
+    "answers": [
+      {
+        "text": "estetica",
+        "image": ""
+      },
+      {
+        "text": "attenzione focalizzata",
+        "image": ""
+      },
+      {
+        "text": "fatica fisica",
+        "image": ""
+      },
+      {
+        "text": "durabilità",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "153) Nell’ambito dell’architettura dell’informazione, che cosa si intende per navigazione orizzontale?",
+    "answers": [
+      {
+        "text": "La navigazione tra elementi della gerarchia informativa che hanno una relazione padre figlio",
+        "image": ""
+      },
+      {
+        "text": "La navigazione che avviene attraverso widget disposti orizzontalmente nel layout",
+        "image": ""
+      },
+      {
+        "text": "La navigazione tra elementi della gerarchia informativa che sono figli di uno stesso padre",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "154) Nell’ambito dell’architettura dell’informazione, gli schemi organizzativi ambigui:",
+    "answers": [
+      {
+        "text": "includono gli schemi cronologici",
+        "image": ""
+      },
+      {
+        "text": "sono utili per ricerche che utilizzano meccanismi di tipo associativo",
+        "image": ""
+      },
+      {
+        "text": "sono utili per ricerche nelle quali l’utente spesso conosce già il nome delle risorse che sta cercando",
+        "image": ""
+      },
+      {
+        "text": "sono facili da progettare e da manutenere",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "155) La tastiera Michela è un particolare tipo di dispositivo per l’input del testo:",
+    "answers": [
+      {
+        "text": "che ha lo stesso layout fisico di una tastiera DVORAK",
+        "image": ""
+      },
+      {
+        "text": "che ha il layout di una tastiera di pianoforte",
+        "image": ""
+      },
+      {
+        "text": "ottimizzata per utenti non udenti",
+        "image": ""
+      },
+      {
+        "text": "che ha il layout di una tastiera di chitarra classica",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "156) È corretto dire che, nel contesto del tempo di risposta a uno stimolo, il tempo motorio:",
+    "answers": [
+      {
+        "text": "dipende dall’età",
+        "image": ""
+      },
+      {
+        "text": "è funzione del canale sensoriale",
+        "image": ""
+      },
+      {
+        "text": "aumenta nel caso della reazione a un segnale proveniente da più canali sensoriali",
+        "image": ""
+      }
+    ],
+    "correct": 0,
+    "image": ""
+  },
+  {
+    "quest": "157) Definire quale dei seguenti parametri non viene considerato nella definizione di engagement secondo O'Brien:",
+    "answers": [
+      {
+        "text": "estetica",
+        "image": ""
+      },
+      {
+        "text": "fatica fisica",
+        "image": ""
+      },
+      {
+        "text": "coinvolgimento emotivo",
+        "image": ""
+      },
+      {
+        "text": "novità",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "158) Quali dei seguenti widget implementa un sistema di navigazione verticale?",
+    "answers": [
+      {
+        "text": "1",
+        "image": ""
+      },
+      {
+        "text": "2",
+        "image": ""
+      },
+      {
+        "text": "3",
+        "image": ""
+      },
+      {
+        "text": "4",
+        "image": ""
+      },
+      {
+        "text": "5",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": "images/158.png"
+  },
+  {
+    "quest": "159) Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta narrative storyboard:",
+    "answers": [
+      {
+        "text": "permette anche la definizione di percorsi non lineari",
+        "image": ""
+      },
+      {
+        "text": "non permette di rappresentare il contesto",
+        "image": ""
+      },
+      {
+        "text": "non permette di rappresentare l’interfaccia",
+        "image": ""
+      },
+      {
+        "text": "è più accurata nella rappresentazione dei widget dell’interfaccia",
+        "image": ""
+      }
+    ],
+    "correct": 0,
+    "image": ""
+  },
+  {
+    "quest": "160) Nell’ambito dell’architettura dell’informazione, gli schemi organizzativi per argomento:",
+    "answers": [
+      {
+        "text": "appartengono alla stessa categoria degli schemi organizzativi geografici",
+        "image": ""
+      },
+      {
+        "text": "non sono facili da progettare e da manutenere",
+        "image": ""
+      },
+      {
+        "text": "non sono utili per ricerche di tipo associativo",
+        "image": ""
+      },
+      {
+        "text": "appartengono alla stessa categoria degli schemi cronologici",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "161) È corretto affermare che la cosiddetta calm technology:",
+    "answers": [
+      {
+        "text": "richiede di essere costantemente al centro della nostra attenzione",
+        "image": ""
+      },
+      {
+        "text": "deve essere principalmente centrata sulla periferia della nostra attenzione",
+        "image": ""
+      },
+      {
+        "text": "deve permettere di spostarsi dalla periferia al centro della nostra attenzione, ma non viceversa",
+        "image": ""
+      },
+      {
+        "text": "deve permettere di spostarsi dal centro alla periferia della nostra attenzione e viceversa",
+        "image": ""
+      }
+    ],
+    "correct": 3,
+    "image": ""
+  },
+  {
+    "quest": "162) Quali delle seguenti strategie non viene descritta per la ricerca delle informazioni in un determinato dominio informativo?",
+    "answers": [
+      {
+        "text": "exaustive seeking (ricerca esaustiva)",
+        "image": ""
+      },
+      {
+        "text": "information re-finding (recuperare un’informazione già trovata in passato)",
+        "image": ""
+      },
+      {
+        "text": "dice seeking (ricerca casuale)",
+        "image": ""
+      },
+      {
+        "text": "known-item seeking (ricerca di un elemento informativo conosciuto)",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "163) È corretto affermare che il formato adottato per il tastierino numerico telefonico:",
+    "answers": [
+      {
+        "text": "è un caso evidente di inerzia tecnologica",
+        "image": ""
+      },
+      {
+        "text": "ha lo stesso formato del tastierino numerico per calcolatore",
+        "image": ""
+      },
+      {
+        "text": "è il risultato di uno dei primi studi di usabilità realizzati per selezionare il formato migliore",
+        "image": ""
+      },
+      {
+        "text": "discende dal formato utilizzato dai telefoni a ruota decadica",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "164) Che cosa differenzia il modello di interazione implicita dall’interaction framework?",
+    "answers": [
+      {
+        "text": "Non c’è alcuna differenza, solo un modo diverso di definire gli elementi che descrivono l’interazione",
+        "image": ""
+      },
+      {
+        "text": "la mancata rappresentazione del sistema",
+        "image": ""
+      },
+      {
+        "text": "la mancata rappresentazione del contesto",
+        "image": ""
+      },
+      {
+        "text": "la definizione di canali di interazione aggiuntivi",
+        "image": ""
+      }
+    ],
+    "correct": 3,
+    "image": ""
+  },
+  {
+    "quest": "165) È corretto affermare che la Legge di Fitts:",
+    "answers": [
+      {
+        "text": "riguarda il tempo motorio",
+        "image": ""
+      },
+      {
+        "text": "riguarda il tempo di reazione",
+        "image": ""
+      },
+      {
+        "text": "enuncia che, a parità di altre condizioni, il tempo di risposta aumenta se aumentano le dimensioni degli oggetti",
+        "image": ""
+      }
+    ],
+    "correct": 0,
+    "image": ""
+  },
+  {
+    "quest": "166) Quali delle seguenti caratteristiche non contraddistingue le interfacce a manipolazione diretta?",
+    "answers": [
+      {
+        "text": "le azioni incrementali",
+        "image": ""
+      },
+      {
+        "text": "l’irreversibilità delle azioni",
+        "image": ""
+      },
+      {
+        "text": "la correttezza sintattica di tutte le azioni",
+        "image": ""
+      },
+      {
+        "text": "la visibilità degli oggetti",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "167) Che cosa si intende per gesto simbolico?",
+    "answers": [
+      {
+        "text": "È un gesto che imita l’azione nel mondo reale",
+        "image": ""
+      },
+      {
+        "text": "È un gesto che indica una direzione",
+        "image": ""
+      },
+      {
+        "text": "È un gesto che si basa su convenzioni ed è fortemente dipendente dalla cultura",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "168) Quali dei seguenti widget implementa un sistema di navigazione orizzontale?",
+    "answers": [
+      {
+        "text": "1",
+        "image": ""
+      },
+      {
+        "text": "2",
+        "image": ""
+      },
+      {
+        "text": "3",
+        "image": ""
+      },
+      {
+        "text": "4",
+        "image": ""
+      },
+      {
+        "text": "5",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": "images/168.png"
+  },
+  {
+    "quest": "169) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "answers": [
+      {
+        "text": "Affordance",
+        "image": ""
+      },
+      {
+        "text": "Mapping",
+        "image": ""
+      },
+      {
+        "text": "Visibilità",
+        "image": ""
+      },
+      {
+        "text": "Feedback",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "170) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "answers": [
+      {
+        "text": "Formulazione delle intenzioni",
+        "image": ""
+      },
+      {
+        "text": "Valutazione del risultato",
+        "image": ""
+      },
+      {
+        "text": "Esecuzione dell’azione",
+        "image": ""
+      },
+      {
+        "text": "Traduzione degli obiettivi",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "171) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "answers": [
+      {
+        "text": "Una notifica su smartphone",
+        "image": ""
+      },
+      {
+        "text": "Una luce ambientale che cambia colore",
+        "image": ""
+      },
+      {
+        "text": "Un messaggio vocale",
+        "image": ""
+      },
+      {
+        "text": "Una vibrazione intenzionale",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "172) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "answers": [
+      {
+        "text": "Utilizza codici QR",
+        "image": ""
+      },
+      {
+        "text": "Non richiede marker fisici per l’ancoraggio degli oggetti virtuali",
+        "image": ""
+      },
+      {
+        "text": "Si basa su beacon Bluetooth",
+        "image": ""
+      },
+      {
+        "text": "Richiede un controller esterno",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "173) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "answers": [
+      {
+        "text": "Uso di colori accesi",
+        "image": ""
+      },
+      {
+        "text": "Aumentare la dimensione dei caratteri e degli elementi interattivi",
+        "image": ""
+      },
+      {
+        "text": "Animazioni complesse",
+        "image": ""
+      },
+      {
+        "text": "Scroll infinito",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "174) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "answers": [
+      {
+        "text": "Affordance",
+        "image": ""
+      },
+      {
+        "text": "Mapping",
+        "image": ""
+      },
+      {
+        "text": "Visibilità",
+        "image": ""
+      },
+      {
+        "text": "Feedback",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "175) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "answers": [
+      {
+        "text": "Formulazione delle intenzioni",
+        "image": ""
+      },
+      {
+        "text": "Valutazione del risultato",
+        "image": ""
+      },
+      {
+        "text": "Esecuzione dell’azione",
+        "image": ""
+      },
+      {
+        "text": "Traduzione degli obiettivi",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "176) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "answers": [
+      {
+        "text": "Una notifica su smartphone",
+        "image": ""
+      },
+      {
+        "text": "Una luce ambientale che cambia colore",
+        "image": ""
+      },
+      {
+        "text": "Un messaggio vocale",
+        "image": ""
+      },
+      {
+        "text": "Una vibrazione intenzionale",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "177) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "answers": [
+      {
+        "text": "Utilizza codici QR",
+        "image": ""
+      },
+      {
+        "text": "Non richiede marker fisici per l’ancoraggio degli oggetti virtuali",
+        "image": ""
+      },
+      {
+        "text": "Si basa su beacon Bluetooth",
+        "image": ""
+      },
+      {
+        "text": "Richiede un controller esterno",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "178) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "answers": [
+      {
+        "text": "Uso di colori accesi",
+        "image": ""
+      },
+      {
+        "text": "Aumentare la dimensione dei caratteri e degli elementi interattivi",
+        "image": ""
+      },
+      {
+        "text": "Animazioni complesse",
+        "image": ""
+      },
+      {
+        "text": "Scroll infinito",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "179) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "answers": [
+      {
+        "text": "Affordance",
+        "image": ""
+      },
+      {
+        "text": "Mapping",
+        "image": ""
+      },
+      {
+        "text": "Visibilità",
+        "image": ""
+      },
+      {
+        "text": "Feedback",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "180) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "answers": [
+      {
+        "text": "Formulazione delle intenzioni",
+        "image": ""
+      },
+      {
+        "text": "Valutazione del risultato",
+        "image": ""
+      },
+      {
+        "text": "Esecuzione dell’azione",
+        "image": ""
+      },
+      {
+        "text": "Traduzione degli obiettivi",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "181) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "answers": [
+      {
+        "text": "Una notifica su smartphone",
+        "image": ""
+      },
+      {
+        "text": "Una luce ambientale che cambia colore",
+        "image": ""
+      },
+      {
+        "text": "Un messaggio vocale",
+        "image": ""
+      },
+      {
+        "text": "Una vibrazione intenzionale",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "182) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "answers": [
+      {
+        "text": "Utilizza codici QR",
+        "image": ""
+      },
+      {
+        "text": "Non richiede marker fisici per l’ancoraggio degli oggetti virtuali",
+        "image": ""
+      },
+      {
+        "text": "Si basa su beacon Bluetooth",
+        "image": ""
+      },
+      {
+        "text": "Richiede un controller esterno",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "183) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "answers": [
+      {
+        "text": "Uso di colori accesi",
+        "image": ""
+      },
+      {
+        "text": "Aumentare la dimensione dei caratteri e degli elementi interattivi",
+        "image": ""
+      },
+      {
+        "text": "Animazioni complesse",
+        "image": ""
+      },
+      {
+        "text": "Scroll infinito",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "184) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "answers": [
+      {
+        "text": "Affordance",
+        "image": ""
+      },
+      {
+        "text": "Mapping",
+        "image": ""
+      },
+      {
+        "text": "Visibilità",
+        "image": ""
+      },
+      {
+        "text": "Feedback",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "185) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "answers": [
+      {
+        "text": "Formulazione delle intenzioni",
+        "image": ""
+      },
+      {
+        "text": "Valutazione del risultato",
+        "image": ""
+      },
+      {
+        "text": "Esecuzione dell’azione",
+        "image": ""
+      },
+      {
+        "text": "Traduzione degli obiettivi",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "186) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "answers": [
+      {
+        "text": "Una notifica su smartphone",
+        "image": ""
+      },
+      {
+        "text": "Una luce ambientale che cambia colore",
+        "image": ""
+      },
+      {
+        "text": "Un messaggio vocale",
+        "image": ""
+      },
+      {
+        "text": "Una vibrazione intenzionale",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "187) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "answers": [
+      {
+        "text": "Utilizza codici QR",
+        "image": ""
+      },
+      {
+        "text": "Non richiede marker fisici per l’ancoraggio degli oggetti virtuali",
+        "image": ""
+      },
+      {
+        "text": "Si basa su beacon Bluetooth",
+        "image": ""
+      },
+      {
+        "text": "Richiede un controller esterno",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "188) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "answers": [
+      {
+        "text": "Uso di colori accesi",
+        "image": ""
+      },
+      {
+        "text": "Aumentare la dimensione dei caratteri e degli elementi interattivi",
+        "image": ""
+      },
+      {
+        "text": "Animazioni complesse",
+        "image": ""
+      },
+      {
+        "text": "Scroll infinito",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "189) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "answers": [
+      {
+        "text": "Affordance",
+        "image": ""
+      },
+      {
+        "text": "Mapping",
+        "image": ""
+      },
+      {
+        "text": "Visibilità",
+        "image": ""
+      },
+      {
+        "text": "Feedback",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "190) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "answers": [
+      {
+        "text": "Formulazione delle intenzioni",
+        "image": ""
+      },
+      {
+        "text": "Valutazione del risultato",
+        "image": ""
+      },
+      {
+        "text": "Esecuzione dell’azione",
+        "image": ""
+      },
+      {
+        "text": "Traduzione degli obiettivi",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "191) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "answers": [
+      {
+        "text": "Una notifica su smartphone",
+        "image": ""
+      },
+      {
+        "text": "Una luce ambientale che cambia colore",
+        "image": ""
+      },
+      {
+        "text": "Un messaggio vocale",
+        "image": ""
+      },
+      {
+        "text": "Una vibrazione intenzionale",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "192) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "answers": [
+      {
+        "text": "Utilizza codici QR",
+        "image": ""
+      },
+      {
+        "text": "Non richiede marker fisici per l’ancoraggio degli oggetti virtuali",
+        "image": ""
+      },
+      {
+        "text": "Si basa su beacon Bluetooth",
+        "image": ""
+      },
+      {
+        "text": "Richiede un controller esterno",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "193) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "answers": [
+      {
+        "text": "Uso di colori accesi",
+        "image": ""
+      },
+      {
+        "text": "Aumentare la dimensione dei caratteri e degli elementi interattivi",
+        "image": ""
+      },
+      {
+        "text": "Animazioni complesse",
+        "image": ""
+      },
+      {
+        "text": "Scroll infinito",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "194) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "answers": [
+      {
+        "text": "Affordance",
+        "image": ""
+      },
+      {
+        "text": "Mapping",
+        "image": ""
+      },
+      {
+        "text": "Visibilità",
+        "image": ""
+      },
+      {
+        "text": "Feedback",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "195) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "answers": [
+      {
+        "text": "Formulazione delle intenzioni",
+        "image": ""
+      },
+      {
+        "text": "Valutazione del risultato",
+        "image": ""
+      },
+      {
+        "text": "Esecuzione dell’azione",
+        "image": ""
+      },
+      {
+        "text": "Traduzione degli obiettivi",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "196) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "answers": [
+      {
+        "text": "Una notifica su smartphone",
+        "image": ""
+      },
+      {
+        "text": "Una luce ambientale che cambia colore",
+        "image": ""
+      },
+      {
+        "text": "Un messaggio vocale",
+        "image": ""
+      },
+      {
+        "text": "Una vibrazione intenzionale",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "197) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "answers": [
+      {
+        "text": "Utilizza codici QR",
+        "image": ""
+      },
+      {
+        "text": "Non richiede marker fisici per l’ancoraggio degli oggetti virtuali",
+        "image": ""
+      },
+      {
+        "text": "Si basa su beacon Bluetooth",
+        "image": ""
+      },
+      {
+        "text": "Richiede un controller esterno",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "198) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "answers": [
+      {
+        "text": "Uso di colori accesi",
+        "image": ""
+      },
+      {
+        "text": "Aumentare la dimensione dei caratteri e degli elementi interattivi",
+        "image": ""
+      },
+      {
+        "text": "Animazioni complesse",
+        "image": ""
+      },
+      {
+        "text": "Scroll infinito",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "199) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "answers": [
+      {
+        "text": "Affordance",
+        "image": ""
+      },
+      {
+        "text": "Mapping",
+        "image": ""
+      },
+      {
+        "text": "Visibilità",
+        "image": ""
+      },
+      {
+        "text": "Feedback",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "200) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "answers": [
+      {
+        "text": "Formulazione delle intenzioni",
+        "image": ""
+      },
+      {
+        "text": "Valutazione del risultato",
+        "image": ""
+      },
+      {
+        "text": "Esecuzione dell’azione",
+        "image": ""
+      },
+      {
+        "text": "Traduzione degli obiettivi",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "201) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "answers": [
+      {
+        "text": "Una notifica su smartphone",
+        "image": ""
+      },
+      {
+        "text": "Una luce ambientale che cambia colore",
+        "image": ""
+      },
+      {
+        "text": "Un messaggio vocale",
+        "image": ""
+      },
+      {
+        "text": "Una vibrazione intenzionale",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "202) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "answers": [
+      {
+        "text": "Utilizza codici QR",
+        "image": ""
+      },
+      {
+        "text": "Non richiede marker fisici per l’ancoraggio degli oggetti virtuali",
+        "image": ""
+      },
+      {
+        "text": "Si basa su beacon Bluetooth",
+        "image": ""
+      },
+      {
+        "text": "Richiede un controller esterno",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "203) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "answers": [
+      {
+        "text": "Uso di colori accesi",
+        "image": ""
+      },
+      {
+        "text": "Aumentare la dimensione dei caratteri e degli elementi interattivi",
+        "image": ""
+      },
+      {
+        "text": "Animazioni complesse",
+        "image": ""
+      },
+      {
+        "text": "Scroll infinito",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "204) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "answers": [
+      {
+        "text": "Affordance",
+        "image": ""
+      },
+      {
+        "text": "Mapping",
+        "image": ""
+      },
+      {
+        "text": "Visibilità",
+        "image": ""
+      },
+      {
+        "text": "Feedback",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "205) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "answers": [
+      {
+        "text": "Formulazione delle intenzioni",
+        "image": ""
+      },
+      {
+        "text": "Valutazione del risultato",
+        "image": ""
+      },
+      {
+        "text": "Esecuzione dell’azione",
+        "image": ""
+      },
+      {
+        "text": "Traduzione degli obiettivi",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "206) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "answers": [
+      {
+        "text": "Una notifica su smartphone",
+        "image": ""
+      },
+      {
+        "text": "Una luce ambientale che cambia colore",
+        "image": ""
+      },
+      {
+        "text": "Un messaggio vocale",
+        "image": ""
+      },
+      {
+        "text": "Una vibrazione intenzionale",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "207) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "answers": [
+      {
+        "text": "Utilizza codici QR",
+        "image": ""
+      },
+      {
+        "text": "Non richiede marker fisici per l’ancoraggio degli oggetti virtuali",
+        "image": ""
+      },
+      {
+        "text": "Si basa su beacon Bluetooth",
+        "image": ""
+      },
+      {
+        "text": "Richiede un controller esterno",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "208) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "answers": [
+      {
+        "text": "Uso di colori accesi",
+        "image": ""
+      },
+      {
+        "text": "Aumentare la dimensione dei caratteri e degli elementi interattivi",
+        "image": ""
+      },
+      {
+        "text": "Animazioni complesse",
+        "image": ""
+      },
+      {
+        "text": "Scroll infinito",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "209) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "answers": [
+      {
+        "text": "Affordance",
+        "image": ""
+      },
+      {
+        "text": "Mapping",
+        "image": ""
+      },
+      {
+        "text": "Visibilità",
+        "image": ""
+      },
+      {
+        "text": "Feedback",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "210) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "answers": [
+      {
+        "text": "Formulazione delle intenzioni",
+        "image": ""
+      },
+      {
+        "text": "Valutazione del risultato",
+        "image": ""
+      },
+      {
+        "text": "Esecuzione dell’azione",
+        "image": ""
+      },
+      {
+        "text": "Traduzione degli obiettivi",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "211) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "answers": [
+      {
+        "text": "Una notifica su smartphone",
+        "image": ""
+      },
+      {
+        "text": "Una luce ambientale che cambia colore",
+        "image": ""
+      },
+      {
+        "text": "Un messaggio vocale",
+        "image": ""
+      },
+      {
+        "text": "Una vibrazione intenzionale",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "212) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "answers": [
+      {
+        "text": "Utilizza codici QR",
+        "image": ""
+      },
+      {
+        "text": "Non richiede marker fisici per l’ancoraggio degli oggetti virtuali",
+        "image": ""
+      },
+      {
+        "text": "Si basa su beacon Bluetooth",
+        "image": ""
+      },
+      {
+        "text": "Richiede un controller esterno",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "213) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "answers": [
+      {
+        "text": "Uso di colori accesi",
+        "image": ""
+      },
+      {
+        "text": "Aumentare la dimensione dei caratteri e degli elementi interattivi",
+        "image": ""
+      },
+      {
+        "text": "Animazioni complesse",
+        "image": ""
+      },
+      {
+        "text": "Scroll infinito",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "214) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "answers": [
+      {
+        "text": "Affordance",
+        "image": ""
+      },
+      {
+        "text": "Mapping",
+        "image": ""
+      },
+      {
+        "text": "Visibilità",
+        "image": ""
+      },
+      {
+        "text": "Feedback",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "215) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "answers": [
+      {
+        "text": "Formulazione delle intenzioni",
+        "image": ""
+      },
+      {
+        "text": "Valutazione del risultato",
+        "image": ""
+      },
+      {
+        "text": "Esecuzione dell’azione",
+        "image": ""
+      },
+      {
+        "text": "Traduzione degli obiettivi",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "216) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "answers": [
+      {
+        "text": "Una notifica su smartphone",
+        "image": ""
+      },
+      {
+        "text": "Una luce ambientale che cambia colore",
+        "image": ""
+      },
+      {
+        "text": "Un messaggio vocale",
+        "image": ""
+      },
+      {
+        "text": "Una vibrazione intenzionale",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "217) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "answers": [
+      {
+        "text": "Utilizza codici QR",
+        "image": ""
+      },
+      {
+        "text": "Non richiede marker fisici per l’ancoraggio degli oggetti virtuali",
+        "image": ""
+      },
+      {
+        "text": "Si basa su beacon Bluetooth",
+        "image": ""
+      },
+      {
+        "text": "Richiede un controller esterno",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "218) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "answers": [
+      {
+        "text": "Uso di colori accesi",
+        "image": ""
+      },
+      {
+        "text": "Aumentare la dimensione dei caratteri e degli elementi interattivi",
+        "image": ""
+      },
+      {
+        "text": "Animazioni complesse",
+        "image": ""
+      },
+      {
+        "text": "Scroll infinito",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "219) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "answers": [
+      {
+        "text": "Affordance",
+        "image": ""
+      },
+      {
+        "text": "Mapping",
+        "image": ""
+      },
+      {
+        "text": "Visibilità",
+        "image": ""
+      },
+      {
+        "text": "Feedback",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "220) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "answers": [
+      {
+        "text": "Formulazione delle intenzioni",
+        "image": ""
+      },
+      {
+        "text": "Valutazione del risultato",
+        "image": ""
+      },
+      {
+        "text": "Esecuzione dell’azione",
+        "image": ""
+      },
+      {
+        "text": "Traduzione degli obiettivi",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "221) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "answers": [
+      {
+        "text": "Una notifica su smartphone",
+        "image": ""
+      },
+      {
+        "text": "Una luce ambientale che cambia colore",
+        "image": ""
+      },
+      {
+        "text": "Un messaggio vocale",
+        "image": ""
+      },
+      {
+        "text": "Una vibrazione intenzionale",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "222) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "answers": [
+      {
+        "text": "Utilizza codici QR",
+        "image": ""
+      },
+      {
+        "text": "Non richiede marker fisici per l’ancoraggio degli oggetti virtuali",
+        "image": ""
+      },
+      {
+        "text": "Si basa su beacon Bluetooth",
+        "image": ""
+      },
+      {
+        "text": "Richiede un controller esterno",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "223) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "answers": [
+      {
+        "text": "Uso di colori accesi",
+        "image": ""
+      },
+      {
+        "text": "Aumentare la dimensione dei caratteri e degli elementi interattivi",
+        "image": ""
+      },
+      {
+        "text": "Animazioni complesse",
+        "image": ""
+      },
+      {
+        "text": "Scroll infinito",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "224) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "answers": [
+      {
+        "text": "Affordance",
+        "image": ""
+      },
+      {
+        "text": "Mapping",
+        "image": ""
+      },
+      {
+        "text": "Visibilità",
+        "image": ""
+      },
+      {
+        "text": "Feedback",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "225) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "answers": [
+      {
+        "text": "Formulazione delle intenzioni",
+        "image": ""
+      },
+      {
+        "text": "Valutazione del risultato",
+        "image": ""
+      },
+      {
+        "text": "Esecuzione dell’azione",
+        "image": ""
+      },
+      {
+        "text": "Traduzione degli obiettivi",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "226) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "answers": [
+      {
+        "text": "Una notifica su smartphone",
+        "image": ""
+      },
+      {
+        "text": "Una luce ambientale che cambia colore",
+        "image": ""
+      },
+      {
+        "text": "Un messaggio vocale",
+        "image": ""
+      },
+      {
+        "text": "Una vibrazione intenzionale",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "227) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "answers": [
+      {
+        "text": "Utilizza codici QR",
+        "image": ""
+      },
+      {
+        "text": "Non richiede marker fisici per l’ancoraggio degli oggetti virtuali",
+        "image": ""
+      },
+      {
+        "text": "Si basa su beacon Bluetooth",
+        "image": ""
+      },
+      {
+        "text": "Richiede un controller esterno",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "228) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "answers": [
+      {
+        "text": "Uso di colori accesi",
+        "image": ""
+      },
+      {
+        "text": "Aumentare la dimensione dei caratteri e degli elementi interattivi",
+        "image": ""
+      },
+      {
+        "text": "Animazioni complesse",
+        "image": ""
+      },
+      {
+        "text": "Scroll infinito",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
   }
 ]

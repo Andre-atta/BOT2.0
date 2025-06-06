@@ -236,3 +236,49 @@ body {
         font-size: 1em;
     }
 }
+
+/* Stili per le immagini nelle domande */
+.question-text img {
+    display: block;
+    margin: 15px auto;
+    max-width: 100%;
+    max-height: 300px;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+/* Stili per le immagini nelle risposte */
+.answer-option img {
+    display: block;
+    margin: 10px auto 0 auto;
+    max-width: 100%;
+    max-height: 150px;
+    height: auto;
+    border-radius: 4px;
+}
+
+/* Stile per opzioni con immagini */
+.answer-option.has-image {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Assicurati che il testo sia centrato sopra l'immagine */
+.answer-option.has-image > span {
+    text-align: center;
+    width: 100%;
+}
+
+/* Adatta il layout per schermi piccoli */
+@media (max-width: 600px) {
+    .question-text img {
+        max-height: 200px;
+    }
+
+    .answer-option img {
+        max-height: 100px;
+    }
+}
