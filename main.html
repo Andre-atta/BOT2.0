@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Diritto dell'Informatica</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+<div class="quiz-container">
+    <div class="quiz-header">
+        <h1>Quiz Diritto dell'Informatica</h1>
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
+        <div id="scoreDisplay" style="margin-top: 15px; font-size: 1.2em;">Punteggio: 0/0</div>
+    </div>
+
+    <div class="quiz-content">
+        <div id="startScreen" class="start-screen">
+            <h2>🎓 Preparati per il Quiz!</h2>
+            <p>Scegli il tipo di quiz che vuoi fare.<br>
+                Riceverai feedback immediato per ogni risposta e potrai vedere il tuo punteggio finale.</p>
+
+            <div class="quiz-selection">
+                <h3>Seleziona il tipo di quiz:</h3>
+                <div class="quiz-type-buttons">
+                    <button class="btn quiz-type-btn" onclick="selectQuizType('diritto')">
+                        📚 Diritto dell'Informatica
+                        <small id="dirittoCount">Caricamento...</small>
+                    </button>
+                    <button class="btn quiz-type-btn" onclick="selectQuizType('ium')">
+                        💻 IUM (Interazione Uomo-Macchina)
+                        <small id="iumCount">Caricamento...</small>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div id="modeSelectionScreen" class="start-screen hidden">
+            <h2 id="selectedQuizTitle">🎓 Quiz Selezionato</h2>
+            <p id="selectedQuizDescription">Quiz completo o casuale?</p>
+            <button class="btn" onclick="startQuiz()">Quiz Completo</button>
+            <button class="btn" onclick="startRandomQuiz()">Quiz Casuale (20 domande)</button>
+            <button class="btn secondary" onclick="goBackToSelection()">← Torna Indietro</button>
+        </div>
+
+        <div id="questionScreen" class="question-screen hidden">
+            <div class="question-number" id="questionNumber"></div>
+            <div class="question-text" id="questionText"></div>
+            <div class="answers-container" id="answersContainer"></div>
+            <div id="feedback" class="feedback hidden"></div>
+            <div style="margin-top: 30px;">
+                <button class="btn" id="nextBtn" onclick="nextQuestion()" disabled>Prossima Domanda</button>
+                <button class="btn" onclick="restartQuiz()">Ricomincia</button>
+            </div>
+        </div>
+
+        <div id="resultsScreen" class="results-screen hidden">
+            <h2>🎉 Quiz Completato!</h2>
+            <div class="score-display" id="finalScore"></div>
+            <div class="score-message" id="scoreMessage"></div>
+
+            <div class="stats">
+                <div class="stat-item">
+                    <div class="stat-number" id="correctAnswers">0</div>
+                    <div class="stat-label">Risposte Corrette</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="incorrectAnswers">0</div>
+                    <div class="stat-label">Risposte Sbagliate</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-number" id="accuracyPercentage">0%</div>
+                    <div class="stat-label">Precisione</div>
+                </div>
+            </div>
+
+            <button class="btn" id="showWrongAnswersBtn" onclick="showWrongAnswers()">Mostra Risposte Sbagliate</button>
+            <div id="wrongAnswersContainer" class="hidden" style="margin-top: 30px; text-align: left;">
+                <h3>Risposte Sbagliate:</h3>
+                <div id="wrongAnswersList"></div>
+            </div>
+            <button class="btn" onclick="restartQuiz()">Riprova</button>
+            <button class="btn" onclick="startRandomQuiz()">Quiz Casuale</button>
+            <button class="btn" onclick="location.reload()">Menu Principale</button>
+        </div>
+    </div>
+</div>
+</body>
+</html>
