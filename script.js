@@ -20,8 +20,8 @@ const progressFill = document.getElementById("progressFill");
 function loadAllQuestions() {
     // Carica entrambi i file JSON
     Promise.all([
-        fetch('Diritto.json').then(response => response.json()),
-        fetch('Ium.json').then(response => response.json())
+        fetch('Domande/Diritto.json').then(response => response.json()),
+        fetch('Domande/Ium.json').then(response => response.json())
     ])
         .then(([dirittoData, iumData]) => {
             allQuestions.diritto = dirittoData;
