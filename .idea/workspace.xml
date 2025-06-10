@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="317e224b-1fef-4d4b-b97e-f820dc508772" name="Changes" comment="Rename JSON files and update fetch paths in script.js">
-      <change afterPath="$PROJECT_DIR$/images/158.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/168.png" afterDir="false" />
+    <list default="true" id="317e224b-1fef-4d4b-b97e-f820dc508772" name="Changes" comment="Update workspace configuration to reflect quiz functionality changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Domande/Ium.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domande/Ium.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,16 +25,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Andre-atta"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Andre-atta&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/Andre-atta/BOT2.0",
-    "accountId": "8ebfbc1c-2c84-487c-80b3-b0d7c5a7df8e"
+    "accountId": "b51ded74-a772-4cfc-8231-465323f0f62b"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -49,22 +45,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Andrea/OneDrive/UniVE/IUM/Bot2.0",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Andrea/OneDrive/UniVE/IUM/Bot2.0&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Andrea\OneDrive\UniVE\IUM\Bot2.0\Domande" />
@@ -86,7 +83,9 @@
       <updated>1748960599508</updated>
       <workItem from="1748960600589" duration="9866000" />
       <workItem from="1748976363419" duration="1896000" />
-      <workItem from="1749224172743" duration="5662000" />
+      <workItem from="1749224172743" duration="6624000" />
+      <workItem from="1749398646717" duration="243000" />
+      <workItem from="1749499101874" duration="888000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -104,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749225983235</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add questions and images to quiz functionality">
+      <option name="closed" value="true" />
+      <created>1749232224529</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1749232224529</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +120,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Rename JSON files and update fetch paths in script.js" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename JSON files and update fetch paths in script.js" />
+    <MESSAGE value="Add questions and images to quiz functionality" />
+    <MESSAGE value="Update workspace configuration to reflect quiz functionality changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update workspace configuration to reflect quiz functionality changes" />
   </component>
 </project>
