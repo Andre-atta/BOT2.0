@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="317e224b-1fef-4d4b-b97e-f820dc508772" name="Changes" comment="Update workspace configuration to reflect quiz functionality changes">
+    <list default="true" id="317e224b-1fef-4d4b-b97e-f820dc508772" name="Changes" comment="Add new quiz questions and update workspace configuration">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Domande/Ium.json" beforeDir="false" afterPath="$PROJECT_DIR$/Domande/Ium.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +87,10 @@
       <workItem from="1749398646717" duration="243000" />
       <workItem from="1749499101874" duration="888000" />
       <workItem from="1752484827793" duration="1067000" />
-      <workItem from="1755621625436" duration="994000" />
+      <workItem from="1755621625436" duration="2244000" />
+      <workItem from="1756214584745" duration="170000" />
+      <workItem from="1756214859693" duration="57000" />
+      <workItem from="1758462459631" duration="3552000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -113,17 +116,45 @@
       <option name="project" value="LOCAL" />
       <updated>1749232224529</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add new quiz questions and update workspace configuration">
+      <option name="closed" value="true" />
+      <created>1755622685823</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755622685823</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add new quiz questions and update workspace configuration">
+      <option name="closed" value="true" />
+      <created>1755624711715</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755624711715</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="Rename JSON files and update fetch paths in script.js" />
     <MESSAGE value="Add questions and images to quiz functionality" />
     <MESSAGE value="Update workspace configuration to reflect quiz functionality changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update workspace configuration to reflect quiz functionality changes" />
+    <MESSAGE value="Add new quiz questions and update workspace configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new quiz questions and update workspace configuration" />
   </component>
 </project>

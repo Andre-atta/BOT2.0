@@ -9,6 +9,9 @@ let allQuestions = {
     ium: []
 };
 
+let lastEvaluation = null; // voto finale
+let lastEvaluationMessage = ""; // messaggio finale
+
 const questionNumberEl = document.getElementById("questionNumber");
 const questionTextEl = document.getElementById("questionText");
 const answersContainerEl = document.getElementById("answersContainer");
@@ -199,15 +202,35 @@ function nextQuestion() {
 function showResults() {
     showScreen("resultsScreen");
 
+    // Calcolo voto e messaggio
+    let message = "Ben fatto!";
+    let evaluation = 29;
+    if (score <= 11) {
+        message = "Zio non l'hai passato";
+    } else if (score >= 12 && score < 14) { // 6
+        message = "Meno 2 punti bro";
+        evaluation = 27;
+    } else if (score >= 14 && score < 16) { // 7
+        message = "Meno 1 punto dude";
+        evaluation = 28;
+    } else if (score >= 16 && score < 18) { // 8
+        message = "OKé ti tieni il voto che hai";
+        evaluation = 29;
+    } else if (score >= 18 && score < 20) { // 9
+        message = "+1 le'ss gooo";
+        evaluation = 30;
+    } else if (score === totalQuestions) {
+        message = "Perfetto! 30 e lode bro";
+        evaluation = "30 e lode";
+    }
+    lastEvaluation = evaluation;
+    lastEvaluationMessage = message;
+
     document.getElementById("finalScore").textContent = `Punteggio: ${score}/${totalQuestions}`;
     document.getElementById("correctAnswers").textContent = score;
     document.getElementById("incorrectAnswers").textContent = totalQuestions - score;
     document.getElementById("accuracyPercentage").textContent = `${Math.round((score / totalQuestions) * 100)}%`;
-
-    let message = "Ben fatto!";
-    if (score < totalQuestions / 2) message = "Hai bisogno di ripassare.";
-    else if (score === totalQuestions) message = "Perfetto!";
-    document.getElementById("scoreMessage").textContent = message;
+    document.getElementById("scoreMessage").textContent = `${message} (Voto: ${evaluation})`;
 }
 
 function restartQuiz() {
@@ -239,31 +262,35 @@ function showWrongAnswers() {
     if (container.classList.contains("hidden")) {
         list.innerHTML = "";
 
+        // Mostra il voto anche qui
+        let votoHtml = `<div style=\"font-size:1.2em;font-weight:bold;margin-bottom:15px;\">Voto: ${lastEvaluation} <span style=\"color:#4facfe\">${lastEvaluationMessage}</span></div>`;
+        list.innerHTML += votoHtml;
+
         if (wrongAnswers.length === 0) {
-            list.innerHTML = "<p>Nessuna risposta sbagliata! 🎉</p>";
+            list.innerHTML += "<p>Nessuna risposta sbagliata! 🎉</p>";
         } else {
             wrongAnswers.forEach((item, index) => {
                 let html = `
-                    <div class="wrong-answer-item" style="margin-bottom: 20px; padding: 15px; background: #f8f9fa; border-radius: 8px;">
+                    <div class=\"wrong-answer-item\" style=\"margin-bottom: 20px; padding: 15px; background: #f8f9fa; border-radius: 8px;\">
                         <p><strong>Domanda ${index + 1}:</strong> ${item.question}</p>`;
 
                 // Aggiungi immagine della domanda se presente
                 if (item.questionImage) {
-                    html += `<img src="${item.questionImage}" style="max-width: 100%; max-height: 200px; margin: 10px 0; border-radius: 8px;">`;
+                    html += `<img src=\"${item.questionImage}\" style=\"max-width: 100%; max-height: 200px; margin: 10px 0; border-radius: 8px;\">`;
                 }
 
-                html += `<p style="color: #dc3545;">❌ La tua risposta: ${item.yourAnswer}</p>`;
+                html += `<p style=\"color: #dc3545;\">❌ ${item.yourAnswer}</p>`;
 
                 // Aggiungi immagine della risposta sbagliata se presente
                 if (item.yourAnswerImage) {
-                    html += `<img src="${item.yourAnswerImage}" style="max-width: 100%; max-height: 150px; margin: 5px 0 10px 0; border-radius: 4px;">`;
+                    html += `<img src=\"${item.yourAnswerImage}\" style=\"max-width: 100%; max-height: 150px; margin: 5px 0 10px 0; border-radius: 4px;\">`;
                 }
 
-                html += `<p style="color: #28a745;">✅ Risposta corretta: ${item.correctAnswer}</p>`;
+                html += `<p style=\"color: #28a745;\">✅ ${item.correctAnswer}</p>`;
 
                 // Aggiungi immagine della risposta corretta se presente
                 if (item.correctAnswerImage) {
-                    html += `<img src="${item.correctAnswerImage}" style="max-width: 100%; max-height: 150px; margin: 5px 0 0 0; border-radius: 4px;">`;
+                    html += `<img src=\"${item.correctAnswerImage}\" style=\"max-width: 100%; max-height: 150px; margin: 5px 0 0 0; border-radius: 4px;\">`;
                 }
 
                 html += `</div>`;
@@ -283,4 +310,3 @@ function showWrongAnswers() {
 window.onload = () => {
     loadAllQuestions();
 };
-
