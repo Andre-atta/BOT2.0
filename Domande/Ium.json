@@ -3770,5 +3770,396 @@
     ],
     "correct": 1,
     "image": ""
+  },
+  {
+    "quest": "174) Qual è uno dei concetti chiave dell’ubiquitous computing?",
+    "answers": [
+      {
+        "text": "Interfaccia a finestre",
+        "image": ""
+      },
+      {
+        "text": "Personalizzazione estrema",
+        "image": ""
+      },
+      {
+        "text": "Invisibilità del sistema informatico",
+        "image": ""
+      },
+      {
+        "text": "Massima attenzione ",
+        "image": ""
+      }
+    ],
+    "correct": 3,
+    "image": ""
+  },
+  {
+    "quest": "175) Cos'è la prossemica (proxemics)? ",
+    "answers": [
+      {
+        "text": "lo studio della postura",
+        "image": ""
+      },
+      {
+        "text": "Lo studio delle distanze sociali",
+        "image": ""
+      },
+      {
+        "text": "Un tipo di UI design",
+        "image": ""
+      },
+      {
+        "text": "Un rete neuronale",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "176) Quale modello tratta l’interazione come traduzione tra linguaggi diversi?",
+    "answers": [
+      {
+        "text": "Ciclo di Norman",
+        "image": ""
+      },
+      {
+        "text": "Interaction Framework",
+        "image": ""
+      },
+      {
+        "text": "Mixed Reality Model",
+        "image": ""
+      },
+      {
+        "text": "Diagramma di Gant",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "177) Nelle interfacce WIMP i radio button servono per: ",
+    "answers": [
+      {
+        "text": "Selezionare più opzioni contemporaneamente",
+        "image": ""
+      },
+      {
+        "text": "Navigare nel sito",
+        "image": ""
+      },
+      {
+        "text": "Scegliere una sola opzione ",
+        "image": ""
+      },
+      {
+        "text": "Salvare un file ",
+        "image": ""
+      }
+    ],
+    "correct": 3,
+    "image": ""
+  },
+  {
+    "quest": "178) Nell’ambito delle interfacce gestuali, i gesti manipolativi imitano:",
+    "answers": [
+      {
+        "text": "Gesti culturali",
+        "image": ""
+      },
+      {
+        "text": "Espressioni facciali",
+        "image": ""
+      },
+      {
+        "text": "Azioni del mondo reale",
+        "image": ""
+      },
+      {
+        "text": "Movimenti casuali",
+        "image": ""
+      }
+    ],
+    "correct": 3,
+    "image": ""
+  },
+  {
+    "quest": "179) Nell’ambito delle interfacce intelligenti, quali sono i due principi chiave dell’intelligenza appropriata?",
+    "answers": [
+      {
+        "text": "Essere bella e moderna",
+        "image": ""
+      },
+      {
+        "text": "Fare cose buone e non fare danni",
+        "image": ""
+      },
+      {
+        "text": "Essere leggera e veloce",
+        "image": ""
+      },
+      {
+        "text": "Avere molti dati e connessione",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "180) L’open card sorting viene utilizzato per:",
+    "answers": [
+      {
+        "text": "Scegliere etichette e gruppi informativi",
+        "image": ""
+      },
+      {
+        "text": "La navigazione trasversale di un sito",
+        "image": ""
+      },
+      {
+        "text": "Scaricare contenuti",
+        "image": ""
+      },
+      {
+        "text": "Installare plugin",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "181) In un sito web, quale delle seguenti azioni corrisponde ad effettuare una navigazione verticale?",
+    "answers": [
+      {
+        "text": "Navigare tra figli dello stesso padre",
+        "image": ""
+      },
+      {
+        "text": "Navigare tra stili CSS",
+        "image": ""
+      },
+      {
+        "text": "Tornare al livello superiore",
+        "image": ""
+      },
+      {
+        "text": "Navigare all’interno di una singola pagina",
+        "image": ""
+      }
+    ],
+    "correct": 3,
+    "image": ""
+  },
+  {
+    "quest": "182) Qual è lo scopo principale dell’uso del contesto in un’interfaccia?",
+    "answers": [
+      {
+        "text": "Aumentare i dati raccolti",
+        "image": ""
+      },
+      {
+        "text": "Ridurre il carico cognitivo dell’utente",
+        "image": ""
+      },
+      {
+        "text": "Abilitare la pubblicità personalizzata",
+        "image": ""
+      },
+      {
+        "text": "Migliorare la velocità del sistema",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "183) Qual è la principale differenza tra il modello di interazione di Norman e l’Interaction Framework?",
+    "answers": [
+      {
+        "text": "Il primo modello è più grafico",
+        "image": ""
+      },
+      {
+        "text": "L’Interaction Framework include il sistema interno",
+        "image": ""
+      },
+      {
+        "text": "Il modello di Norman è più recente",
+        "image": ""
+      },
+      {
+        "text": "L’Interaction Framework ignora l’output",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "184) Cosa sono i 6 gradi di libertà in un controller VR?",
+    "answers": [
+      {
+        "text": "Sei livelli di accesso",
+        "image": ""
+      },
+      {
+        "text": "Sei opzioni nel menu",
+        "image": ""
+      },
+      {
+        "text": "Possibilità di movimento e di rotazione in 3D",
+        "image": ""
+      },
+      {
+        "text": "Sei strumenti grafici",
+        "image": ""
+      }
+    ],
+    "correct": 3,
+    "image": ""
+  },
+  {
+    "quest": "185) Cosa aggiunge una storyboard narrativa sequenziale rispetto ad una storyboard sequenziale?",
+    "answers": [
+      {
+        "text": "Interfaccia",
+        "image": ""
+      },
+      {
+        "text": "Interazioni vocali",
+        "image": ""
+      },
+      {
+        "text": "Colori",
+        "image": ""
+      },
+      {
+        "text": "Contesto",
+        "image": ""
+      }
+    ],
+    "correct": 4,
+    "image": ""
+  },
+  {
+    "quest": "186) Nell'ambito delle interfacce WIMP, a cosa serve una finestra modale?",
+    "answers": [
+      {
+        "text": "Per organizzare icone",
+        "image": ""
+      },
+      {
+        "text": "Per separare i flussi di dialogo",
+        "image": ""
+      },
+      {
+        "text": "Per mostrare il menu principale",
+        "image": ""
+      },
+      {
+        "text": "Per ingrandire immagini",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "187) Nelle interfacce WIMP i check button servono per:",
+    "answers": [
+      {
+        "text": "Selezionare più opzioni contemporaneamente",
+        "image": ""
+      },
+      {
+        "text": "Navigare nel sito",
+        "image": ""
+      },
+      {
+        "text": "Scegliere una sola opzione",
+        "image": ""
+      },
+      {
+        "text": "Salvare un file",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "188) Nell’ambito delle interfacce gestuali, i gesti simbolici possono:",
+    "answers": [
+      {
+        "text": "Essere compresi ovunque",
+        "image": ""
+      },
+      {
+        "text": "Essere culturalmente ambigui",
+        "image": ""
+      },
+      {
+        "text": "Usare esclusivamente due dita",
+        "image": ""
+      },
+      {
+        "text": "Richiedere una tastiera",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "quest": "189) Il closed card sorting viene utilizzato per:",
+    "answers": [
+      {
+        "text": "Validare etichette e gruppi informativi",
+        "image": ""
+      },
+      {
+        "text": "Viene usato per siti e-commerce",
+        "image": ""
+      },
+      {
+        "text": "Definire i tag di una folksonomia",
+        "image": ""
+      },
+      {
+        "text": "È un metodo di programmazione",
+        "image": ""
+      }
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "quest": "190) In un sito web, quale delle seguenti azioni corrisponde ad effettuare una navigazione orizzontale?",
+    "answers": [
+      {
+        "text": "Navigare all’interno di una singola pagina",
+        "image": ""
+      },
+      {
+        "text": "Navigare tra figli dello stesso padre",
+        "image": ""
+      },
+      {
+        "text": "Tornare alla home",
+        "image": ""
+      },
+      {
+        "text": "Navigare tra stili CSS",
+        "image": ""
+      }
+    ],
+    "correct": 2,
+    "image": ""
   }
 ]

@@ -31,12 +31,12 @@
     &quot;assignee&quot;: &quot;Andre-atta&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Andre-atta/BOT2.0",
-    "accountId": "b51ded74-a772-4cfc-8231-465323f0f62b"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Andre-atta/BOT2.0.git&quot;,
+    &quot;accountId&quot;: &quot;8ebfbc1c-2c84-487c-80b3-b0d7c5a7df8e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -70,7 +70,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-WS-251.27812.50" />
       </set>
     </attachedChunks>
   </component>
@@ -86,6 +86,8 @@
       <workItem from="1749224172743" duration="6624000" />
       <workItem from="1749398646717" duration="243000" />
       <workItem from="1749499101874" duration="888000" />
+      <workItem from="1752484827793" duration="1067000" />
+      <workItem from="1755621625436" duration="994000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
