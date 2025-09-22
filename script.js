@@ -276,21 +276,21 @@ function showWrongAnswers() {
 
                 // Aggiungi immagine della domanda se presente
                 if (item.questionImage) {
-                    html += `<img src=\"${item.questionImage}\" style=\"max-width: 100%; max-height: 200px; margin: 10px 0; border-radius: 8px;\">`;
+                    html += `<img src=\"${item.questionImage}\" style=\"max-width: 100%; max-height: 200px; margin: 10px 0; border-radius: 8px;\" alt="img error">`;
                 }
 
                 html += `<p style=\"color: #dc3545;\">❌ ${item.yourAnswer}</p>`;
 
                 // Aggiungi immagine della risposta sbagliata se presente
                 if (item.yourAnswerImage) {
-                    html += `<img src=\"${item.yourAnswerImage}\" style=\"max-width: 100%; max-height: 150px; margin: 5px 0 10px 0; border-radius: 4px;\">`;
+                    html += `<img src=\"${item.yourAnswerImage}\" style=\"max-width: 100%; max-height: 150px; margin: 5px 0 10px 0; border-radius: 4px;\" alt="img error">`;
                 }
 
                 html += `<p style=\"color: #28a745;\">✅ ${item.correctAnswer}</p>`;
 
                 // Aggiungi immagine della risposta corretta se presente
                 if (item.correctAnswerImage) {
-                    html += `<img src=\"${item.correctAnswerImage}\" style=\"max-width: 100%; max-height: 150px; margin: 5px 0 0 0; border-radius: 4px;\">`;
+                    html += `<img src=\"${item.correctAnswerImage}\" style=\"max-width: 100%; max-height: 150px; margin: 5px 0 0 0; border-radius: 4px;\" alt="img error">`;
                 }
 
                 html += `</div>`;
