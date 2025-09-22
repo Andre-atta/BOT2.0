@@ -4,6 +4,7 @@ let score = 0;
 let totalQuestions = 0;
 let currentQuizType = ''; // 'diritto' o 'ium'
 let wrongAnswers = []; // per tracciare le risposte sbagliate
+let wrongCount = {}; // per tracciare quante volte ogni domanda è stata sbagliata
 let allQuestions = {
     diritto: [],
     ium: []
@@ -27,6 +28,8 @@ function loadAllQuestions() {
         fetch('Domande/Ium.json').then(response => response.json())
     ])
         .then(([dirittoData, iumData]) => {
+            dirittoData.forEach((q, i) => q.id = `diritto_${i}`);
+            iumData.forEach((q, i) => q.id = `ium_${i}`);
             allQuestions.diritto = dirittoData;
             allQuestions.ium = iumData;
 
@@ -73,10 +76,44 @@ function startQuiz() {
     loadQuestion();
 }
 
+function weightedRandomSample(array, weights, sampleSize) {
+    // Algoritmo: estrazione senza ripetizione, pesata
+    let result = [];
+    let pool = array.map((item, idx) => ({ item, weight: weights[idx] }));
+    let total = pool.reduce((sum, el) => sum + el.weight, 0);
+
+    for (let i = 0; i < sampleSize && pool.length > 0; i++) {
+        let r = Math.random() * total;
+        let acc = 0;
+        let chosenIdx = 0;
+        for (let j = 0; j < pool.length; j++) {
+            acc += pool[j].weight;
+            if (r <= acc) {
+                chosenIdx = j;
+                break;
+            }
+        }
+        result.push(pool[chosenIdx].item);
+        total -= pool[chosenIdx].weight;
+        pool.splice(chosenIdx, 1);
+    }
+    return result;
+}
+
 function startRandomQuiz() {
+    // Pool completo
+    const pool = allQuestions[currentQuizType];
+    // Calcola pesi: 1 + numero errori (almeno 1 per ogni domanda)
+    const weights = pool.map(q => 1 + (wrongCount[q.id] || 0));
+    // Estrai 20 domande random pesate
+    questions = weightedRandomSample(pool, weights, 20);
+    // Mescola l'ordine di presentazione
     shuffleArray(questions);
-    questions = questions.slice(0, 20);
-    startQuiz();
+    currentQuestionIndex = 0;
+    score = 0;
+    totalQuestions = questions.length;
+    showScreen("questionScreen");
+    loadQuestion();
 }
 
 function showScreen(screenId) {
@@ -167,6 +204,7 @@ function selectAnswer(index, element) {
             yourAnswerImage: q.answers[index].image || null,
             correctAnswerImage: q.answers[correct].image || null
         });
+        wrongCount[q.id] = (wrongCount[q.id] || 0) + 1;
     }
 
     const answerOptions = document.querySelectorAll(".answer-option");
@@ -276,21 +314,21 @@ function showWrongAnswers() {
 
                 // Aggiungi immagine della domanda se presente
                 if (item.questionImage) {
-                    html += `<img src=\"${item.questionImage}\" style=\"max-width: 100%; max-height: 200px; margin: 10px 0; border-radius: 8px;\">`;
+                    html += `<img src=\"${item.questionImage}\" style=\"max-width: 100%; max-height: 200px; margin: 10px 0; border-radius: 8px;\" alt="img error">`;
                 }
 
                 html += `<p style=\"color: #dc3545;\">❌ ${item.yourAnswer}</p>`;
 
                 // Aggiungi immagine della risposta sbagliata se presente
                 if (item.yourAnswerImage) {
-                    html += `<img src=\"${item.yourAnswerImage}\" style=\"max-width: 100%; max-height: 150px; margin: 5px 0 10px 0; border-radius: 4px;\">`;
+                    html += `<img src=\"${item.yourAnswerImage}\" style=\"max-width: 100%; max-height: 150px; margin: 5px 0 10px 0; border-radius: 4px;\" alt="img error">`;
                 }
 
                 html += `<p style=\"color: #28a745;\">✅ ${item.correctAnswer}</p>`;
 
                 // Aggiungi immagine della risposta corretta se presente
                 if (item.correctAnswerImage) {
-                    html += `<img src=\"${item.correctAnswerImage}\" style=\"max-width: 100%; max-height: 150px; margin: 5px 0 0 0; border-radius: 4px;\">`;
+                    html += `<img src=\"${item.correctAnswerImage}\" style=\"max-width: 100%; max-height: 150px; margin: 5px 0 0 0; border-radius: 4px;\" alt="img error">`;
                 }
 
                 html += `</div>`;
