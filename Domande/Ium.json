@@ -3557,232 +3557,196 @@
     "correct": 0,
     "image": ""
   },
-  {
-    "quest": "192) Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta branching storyboard si caratterizza sempre per:",
-    "answers": [
-      {
-        "text": "la rappresentazione di pattern di interazione non lineari",
-        "image": ""
-      },
-      {
-        "text": "la rappresentazione del solo contesto dell'interazione",
-        "image": ""
-      },
-      {
-        "text": "la rappresentazione di pattern di interazione lineari",
-        "image": ""
-      },
-      {
-        "text": "la rappresentazione del contesto dell'interazione e dell'interfaccia",
-        "image": ""
-      }
-    ],
-    "correct": 0,
-    "image": ""
-  },
-  {
-    "quest": "193) Da cosa dipende il tempo motorio di risposta a uno stimolo?",
-    "answers": [
-      {
-        "text": "Dal canale sensoriale",
-        "image": ""
-      },
-      {
-        "text": "Dall'età e dalla salute del soggetto",
-        "image": ""
-      },
-      {
-        "text": "Dalla difficoltà del compito",
-        "image": ""
-      },
-      {
-        "text": "Dalla temperatura ambientale",
-        "image": ""
-      }
-    ],
-    "correct": 1,
-    "image": ""
-  },
-  {
-    "quest": "194) Cosa rende unica la tastiera Michela rispetto ad altre tastiere?",
-    "answers": [
-      {
-        "text": "L'uso di un sistema QWERTY modificato",
-        "image": ""
-      },
-      {
-        "text": "L'associazione di combinazioni di tasti a sillabe o parole intere",
-        "image": ""
-      },
-      {
-        "text": "L'utilizzo esclusivo di input numerico",
-        "image": ""
-      },
-      {
-        "text": "L'integrazione con dispositivi touch screen",
-        "image": ""
-      }
-    ],
-    "correct": 1,
-    "image": ""
-  },
-  {
-    "quest": "195) Qual è il problema principale degli schemi organizzativi ambigui?",
-    "answers": [
-      {
-        "text": "Sono difficili da mantenere",
-        "image": ""
-      },
-      {
-        "text": "Sono controversi da un punto di vista etico",
-        "image": ""
-      },
-      {
-        "text": "Richiedono un'eccessiva quantità di informazioni",
-        "image": ""
-      },
-      {
-        "text": "Funzionano bene solo quando si sa esattamente cosa si sta cercando",
-        "image": ""
-      }
-    ],
-    "correct": 0,
-    "image": ""
-  },
-  {
-    "quest": "196) In che modo viene visto il problema dell'interazione nell'interaction framework?",
-    "answers": [
-      {
-        "text": "Come un problema di velocità",
-        "image": ""
-      },
-      {
-        "text": "Come un problema di estetica",
-        "image": ""
-      },
-      {
-        "text": "Come un problema di memorizzazione",
-        "image": ""
-      },
-      {
-        "text": "Come un problema di traduzione tra linguaggi",
-        "image": ""
-      }
-    ],
-    "correct": 3,
-    "image": ""
-  },
-  {
-    "quest": "197) Perché non percepiamo il punto cieco (blank spot) nella nostra visione quotidiana?",
-    "answers": [
-      {
-        "text": "Perché è molto piccolo",
-        "image": ""
-      },
-      {
-        "text": "Perché il cervello lo ignora",
-        "image": ""
-      },
-      {
-        "text": "Perché il cervello lo 'riempie' con informazioni circostanti",
-        "image": ""
-      },
-      {
-        "text": "Perché usiamo entrambi gli occhi",
-        "image": ""
-      }
-    ],
-    "correct": 2,
-    "image": ""
-  },
-  {
-    "quest": "198) Quale dei seguenti NON è un principio di usabilità di Nielsen?",
-    "answers": [
-      {
-        "text": "Estetica e design minimalista",
-        "image": ""
-      },
-      {
-        "text": "Massima trasparenza del sistema",
-        "image": ""
-      },
-      {
-        "text": "Riconoscimento anziché ricordo",
-        "image": ""
-      },
-      {
-        "text": "Consistenza e standard",
-        "image": ""
-      }
-    ],
-    "correct": 1,
-    "image": ""
-  },
-  {
-    "quest": "199) Un prototipo verticale mostra:",
-    "answers": [
-      {
-        "text": "Solo i dati dell’utente",
-        "image": ""
-      },
-      {
-        "text": "Solo poche features, ma completamente implementate",
-        "image": ""
-      },
-      {
-        "text": "Tutte le features dell’interfaccia, ma con funzionalità non completamente implementate",
-        "image": ""
-      },
-      {
-        "text": "Solo il back-end",
-        "image": ""
-      }
-    ],
-    "correct": 1,
-    "image": ""
-  },
-  {
-    "quest": "200) Si supponga di avere tre immagini: Immagine A 120 x 200 pixel, profondità colore 8 bit, densità 100 pixel per inch; Immagine B 200 x 120 pixel, profondità colore 8 bit, densità 200 pixel per inch; Immagine C 60 x 100 pixel, profondità colore 8 bit, densità 200 pixel per inch. Quali immagini hanno la dimensione maggiore in bytes?",
-    "answers": [
-      {
-        "text": "Immagini B e C",
-        "image": ""
-      },
-      {
-        "text": "Immagini A e B",
-        "image": ""
-      },
-      {
-        "text": "Immagine B",
-        "image": ""
-      },
-      {
-        "text": "Tutte e tre le immagini hanno la stessa dimensione",
-        "image": ""
-      }
-    ],
-    "correct": 1,
-    "image": ""
-  },
+    {
+      "quest": "192) Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta branching storyboard si caratterizza sempre per:",
+      "answers": [
+        {
+          "text": "la rappresentazione di pattern di interazione non lineari",
+          "image": ""
+        },
+        {
+          "text": "la rappresentazione del solo contesto dell'interazione",
+          "image": ""
+        },
+        {
+          "text": "la rappresentazione di pattern di interazione lineari",
+          "image": ""
+        },
+        {
+          "text": "la rappresentazione del contesto dell'interazione e dell'interfaccia",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "image": ""
+    },
+    {
+      "quest": "193) Da cosa dipende il tempo motorio di risposta a uno stimolo?",
+      "answers": [
+        {
+          "text": "Dal canale sensoriale",
+          "image": ""
+        },
+        {
+          "text": "Dall'età e dalla salute del soggetto",
+          "image": ""
+        },
+        {
+          "text": "Dalla difficoltà del compito",
+          "image": ""
+        },
+        {
+          "text": "Dalla temperatura ambientale",
+          "image": ""
+        }
+      ],
+      "correct": 1,
+      "image": ""
+    },
+    {
+      "quest": "194) Cosa rende unica la tastiera Michela rispetto ad altre tastiere?",
+      "answers": [
+        {
+          "text": "L'uso di un sistema QWERTY modificato",
+          "image": ""
+        },
+        {
+          "text": "L'associazione di combinazioni di tasti a sillabe o parole intere",
+          "image": ""
+        },
+        {
+          "text": "L'utilizzo esclusivo di input numerico",
+          "image": ""
+        },
+        {
+          "text": "L'integrazione con dispositivi touch screen",
+          "image": ""
+        }
+      ],
+      "correct": 1,
+      "image": ""
+    },
+    {
+      "quest": "195) Qual è il problema principale degli schemi organizzativi ambigui?",
+      "answers": [
+        {
+          "text": "Sono difficili da mantenere",
+          "image": ""
+        },
+        {
+          "text": "Sono controversi da un punto di vista etico",
+          "image": ""
+        },
+        {
+          "text": "Richiedono un'eccessiva quantità di informazioni",
+          "image": ""
+        },
+        {
+          "text": "Funzionano bene solo quando si sa esattamente cosa si sta cercando",
+          "image": ""
+        }
+      ],
+      "correct": 0,
+      "image": ""
+    },
+    {
+      "quest": "196) In che modo viene visto il problema dell'interazione nell'interaction framework?",
+      "answers": [
+        {
+          "text": "Come un problema di velocità",
+          "image": ""
+        },
+        {
+          "text": "Come un problema di estetica",
+          "image": ""
+        },
+        {
+          "text": "Come un problema di memorizzazione",
+          "image": ""
+        },
+        {
+          "text": "Come un problema di traduzione tra linguaggi",
+          "image": ""
+        }
+      ],
+      "correct": 3,
+      "image": ""
+    },
+    {
+      "quest": "197) Perché non percepiamo il punto cieco (blank spot) nella nostra visione quotidiana?",
+      "answers": [
+        {
+          "text": "Perché è molto piccolo",
+          "image": ""
+        },
+        {
+          "text": "Perché il cervello lo ignora",
+          "image": ""
+        },
+        {
+          "text": "Perché il cervello lo 'riempie' con informazioni circostanti",
+          "image": ""
+        },
+        {
+          "text": "Perché usiamo entrambi gli occhi",
+          "image": ""
+        }
+      ],
+      "correct": 2,
+      "image": ""
+    },
+    {
+      "quest": "198) Quale dei seguenti NON è un principio di usabilità di Nielsen?",
+      "answers": [
+        {
+          "text": "Estetica e design minimalista",
+          "image": ""
+        },
+        {
+          "text": "Massima trasparenza del sistema",
+          "image": ""
+        },
+        {
+          "text": "Riconoscimento anziché ricordo",
+          "image": ""
+        },
+        {
+          "text": "Consistenza e standard",
+          "image": ""
+        }
+      ],
+      "correct": 1,
+      "image": ""
+    },
+    {
+      "quest": "199) Un prototipo verticale mostra:",
+      "answers": [
+        { "text": "Solo i dati dell’utente", "image": "" },
+        { "text": "Solo poche features, ma completamente implementate", "image": "" },
+        { "text": "Tutte le features dell’interfaccia, ma con funzionalità non completamente implementate", "image": "" },
+        { "text": "Solo il back-end", "image": "" }
+      ],
+      "correct": 1,
+      "image": ""
+    },
+    {
+      "quest": "200) Si supponga di avere tre immagini: Immagine A 120 x 200 pixel, profondità colore 8 bit, densità 100 pixel per inch; Immagine B 200 x 120 pixel, profondità colore 8 bit, densità 200 pixel per inch; Immagine C 60 x 100 pixel, profondità colore 8 bit, densità 200 pixel per inch. Quali immagini hanno la dimensione maggiore in bytes?",
+      "answers": [
+        { "text": "Immagini B e C", "image": "" },
+        { "text": "Immagini A e B", "image": "" },
+        { "text": "Immagine B", "image": "" },
+        { "text": "Tutte e tre le immagini hanno la stessa dimensione", "image": "" }
+      ],
+      "correct": 1,
+      "image": ""
+    },
   {
     "quest": "201) Si supponga di avere tre immagini: Immagine A 100 x 150 pixel, profondità colore 24 bit, densità 150 pixel per inch; Immagine B 200 x 300 pixel, profondità colore 24 bit, densità 75 pixel per inch; Immagine C 300 x 200 pixel, profondità colore 24 bit, densità 150 pixel per inch. Quali immagini hanno la dimensione maggiore in bytes?",
     "answers": [
-      {
-        "text": "Immagini B e C",
-        "image": ""
-      },
-      {
-        "text": "Immagini A e C",
-        "image": ""
-      },
-      {
-        "text": "Immagine C",
-        "image": ""
-      },
-      {
-        "text": "Tutte e tre le immagini hanno la stessa dimensione",
-        "image": ""
-      }
+      { "text": "Immagini B e C", "image": "" },
+      { "text": "Immagini A e C", "image": "" },
+      { "text": "Immagine C", "image": "" },
+      { "text": "Tutte e tre le immagini hanno la stessa dimensione", "image": "" }
     ],
     "correct": 0,
     "image": ""
@@ -3790,22 +3754,10 @@
   {
     "quest": "202) Da cosa dipende il tempo di reazione a uno stimolo?",
     "answers": [
-      {
-        "text": "Dal canale sensoriale",
-        "image": ""
-      },
-      {
-        "text": "Dalla temperatura ambientale",
-        "image": ""
-      },
-      {
-        "text": "Dall'età e dalla salute del soggetto",
-        "image": ""
-      },
-      {
-        "text": "Dalla difficoltà del compito",
-        "image": ""
-      }
+      { "text": "Dal canale sensoriale", "image": "" },
+      { "text": "Dalla temperatura ambientale", "image": "" },
+      { "text": "Dall'età e dalla salute del soggetto", "image": "" },
+      { "text": "Dalla difficoltà del compito", "image": "" }
     ],
     "correct": 0,
     "image": ""
@@ -3813,22 +3765,10 @@
   {
     "quest": "203) Qual è il problema principale degli schemi organizzativi esatti?",
     "answers": [
-      {
-        "text": "Sono difficili da mantenere",
-        "image": ""
-      },
-      {
-        "text": "Funzionano bene solo quando si sa esattamente cosa si sta cercando",
-        "image": ""
-      },
-      {
-        "text": "Sono troppo ambigui",
-        "image": ""
-      },
-      {
-        "text": "Richiedono un'eccessiva quantità di informazioni",
-        "image": ""
-      }
+      { "text": "Sono difficili da mantenere", "image": "" },
+      { "text": "Funzionano bene solo quando si sa esattamente cosa si sta cercando", "image": "" },
+      { "text": "Sono troppo ambigui", "image": "" },
+      { "text": "Richiedono un'eccessiva quantità di informazioni", "image": "" }
     ],
     "correct": 1,
     "image": ""
@@ -3836,22 +3776,10 @@
   {
     "quest": "204) Cosa rappresenta la tastiera Dvorak rispetto a quella QWERTY?",
     "answers": [
-      {
-        "text": "Un'alternativa più efficiente per la digitazione",
-        "image": ""
-      },
-      {
-        "text": "Una tastiera francese per uso specifico",
-        "image": ""
-      },
-      {
-        "text": "Un layout per calcolatori scientifici",
-        "image": ""
-      },
-      {
-        "text": "Una tastiera esclusiva per stenografi",
-        "image": ""
-      }
+      { "text": "Un'alternativa più efficiente per la digitazione", "image": "" },
+      { "text": "Una tastiera francese per uso specifico", "image": "" },
+      { "text": "Un layout per calcolatori scientifici", "image": "" },
+      { "text": "Una tastiera esclusiva per stenografi", "image": "" }
     ],
     "correct": 0,
     "image": ""
@@ -3859,22 +3787,10 @@
   {
     "quest": "205) Quale dei seguenti NON è un principio di usabilità di Nielsen?",
     "answers": [
-      {
-        "text": "Visibilità dello stato del sistema",
-        "image": ""
-      },
-      {
-        "text": "Corrispondenza tra sistema e mondo reale",
-        "image": ""
-      },
-      {
-        "text": "Massima velocità del sistema",
-        "image": ""
-      },
-      {
-        "text": "Controllo dell’utente e libertà",
-        "image": ""
-      }
+      { "text": "Visibilità dello stato del sistema", "image": "" },
+      { "text": "Corrispondenza tra sistema e mondo reale", "image": "" },
+      { "text": "Massima velocità del sistema", "image": "" },
+      { "text": "Controllo dell’utente e libertà", "image": "" }
     ],
     "correct": 2,
     "image": ""
@@ -3882,22 +3798,10 @@
   {
     "quest": "206) Un prototipo orizzontale mostra:",
     "answers": [
-      {
-        "text": "Solo poche features, ma completamente implementate",
-        "image": ""
-      },
-      {
-        "text": "Tutte le features dell’interfaccia, ma con funzionalità non completamente implementate",
-        "image": ""
-      },
-      {
-        "text": "Solo i dati dell’utente",
-        "image": ""
-      },
-      {
-        "text": "Solo il back-end",
-        "image": ""
-      }
+      { "text": "Solo poche features, ma completamente implementate", "image": "" },
+      { "text": "Tutte le features dell’interfaccia, ma con funzionalità non completamente implementate", "image": "" },
+      { "text": "Solo i dati dell’utente", "image": "" },
+      { "text": "Solo il back-end", "image": "" }
     ],
     "correct": 1,
     "image": ""
@@ -3905,22 +3809,10 @@
   {
     "quest": "207) Qual è l'implicazione del passaggio dall'informatica tradizionale all'ubiquitous computing (informatica pervasiva) sui modelli di interazione?",
     "answers": [
-      {
-        "text": "I modelli di interazione rimangono invariati",
-        "image": ""
-      },
-      {
-        "text": "Richiede una ridefinizione dei modelli di interazione",
-        "image": ""
-      },
-      {
-        "text": "Rende i modelli di interazione più semplici",
-        "image": ""
-      },
-      {
-        "text": "Elimina la necessità di modelli di interazione",
-        "image": ""
-      }
+      { "text": "I modelli di interazione rimangono invariati", "image": "" },
+      { "text": "Richiede una ridefinizione dei modelli di interazione", "image": "" },
+      { "text": "Rende i modelli di interazione più semplici", "image": "" },
+      { "text": "Elimina la necessità di modelli di interazione", "image": "" }
     ],
     "correct": 1,
     "image": ""
@@ -3928,28 +3820,16 @@
   {
     "quest": "208) Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta narrative storyboard si caratterizza sempre per:",
     "answers": [
-      {
-        "text": "la rappresentazione del solo contesto dell'interazione",
-        "image": ""
-      },
-      {
-        "text": "la rappresentazione del contesto dell'interazione e dell'interfaccia",
-        "image": ""
-      },
-      {
-        "text": "racconto orale di un pattern di interazione",
-        "image": ""
-      },
-      {
-        "text": "la rappresentazione della sola interfaccia",
-        "image": ""
-      }
+      { "text": "la rappresentazione del solo contesto dell'interazione", "image": "" },
+      { "text": "la rappresentazione del contesto dell'interazione e dell'interfaccia", "image": "" },
+      { "text": "racconto orale di un pattern di interazione", "image": "" },
+      { "text": "la rappresentazione della sola interfaccia", "image": "" }
     ],
     "correct": 1,
     "image": ""
   },
   {
-    "quest": "209)  Indica, specificando un numero da 1 a 3 quale dei seguenti widget implementa un sistema di navigazione verticale:",
+    "quest": "209)  Indica, specificando un numero da 1 a 3 quale dei seguenti widget implementa un sistema di navigazione verticale?",
     "answers": [
       {
         "text": "1",
@@ -3964,7 +3844,7 @@
         "image": ""
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "image": "images/209.png"
   }
 ]
