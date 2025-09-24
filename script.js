@@ -77,7 +77,6 @@ function startQuiz() {
 }
 
 function weightedRandomSample(array, weights, sampleSize) {
-    // Algoritmo: estrazione senza ripetizione, pesata
     let result = [];
     let pool = array.map((item, idx) => ({ item, weight: weights[idx] }));
     let total = pool.reduce((sum, el) => sum + el.weight, 0);
@@ -101,12 +100,11 @@ function weightedRandomSample(array, weights, sampleSize) {
 }
 
 function startRandomQuiz() {
-    // Pool completo
     const pool = allQuestions[currentQuizType];
     // Calcola pesi: 1 + numero errori (almeno 1 per ogni domanda)
     const weights = pool.map(q => 1 + (wrongCount[q.id] || 0));
     // Estrai 20 domande random pesate
-    questions = weightedRandomSample(pool, weights, 20);
+    questions = weightedRandomSample(pool, weights, 10);
     // Mescola l'ordine di presentazione
     shuffleArray(questions);
     currentQuestionIndex = 0;
@@ -126,10 +124,11 @@ function showScreen(screenId) {
 
 function loadQuestion() {
     const q = questions[currentQuestionIndex];
+    // Numerazione dinamica, indipendente dal testo della domanda
     questionNumberEl.textContent = `Domanda ${currentQuestionIndex + 1} di ${totalQuestions}`;
 
     // Pulisci il contenuto precedente
-    questionTextEl.innerHTML = q.quest;
+    questionTextEl.innerHTML = q.quest.replace(/\n/g, "<br>");
 
     // Aggiungi l'immagine della domanda se presente
     if (q.image && q.image.trim() !== "") {
@@ -240,21 +239,20 @@ function nextQuestion() {
 function showResults() {
     showScreen("resultsScreen");
 
-    // Calcolo voto e messaggio
     let message = "Ben fatto!";
     let evaluation = 29;
-    if (score <= 11) {
+    if (score <= 5) {
         message = "Zio non l'hai passato";
-    } else if (score >= 12 && score < 14) { // 6
+    } else if (score === 6) {
         message = "Meno 2 punti bro";
         evaluation = 27;
-    } else if (score >= 14 && score < 16) { // 7
+    } else if (score === 7) {
         message = "Meno 1 punto dude";
         evaluation = 28;
-    } else if (score >= 16 && score < 18) { // 8
+    } else if (score === 8) {
         message = "OKé ti tieni il voto che hai";
         evaluation = 29;
-    } else if (score >= 18 && score < 20) { // 9
+    } else if (score === 9) {
         message = "+1 le'ss gooo";
         evaluation = 30;
     } else if (score === totalQuestions) {

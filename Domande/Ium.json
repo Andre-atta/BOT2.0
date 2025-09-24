@@ -1,6 +1,6 @@
 [
   {
-    "quest": "1) L’interaction framework descrive 4 fasi del ciclo interattivo, tra le quali troviamo:",
+    "quest": "L' interaction framework descrive 4 fasi del ciclo interattivo, tra le quali troviamo:",
     "answers": [
       {
         "text": "l’osservazione e la memorizzazione",
@@ -23,7 +23,7 @@
     "image": ""
   },
   {
-    "quest": "2) Qual'è il significato dell’euristica visibilità dello stato del sistema?",
+    "quest": "Qual'è il significato dell’euristica visibilità dello stato del sistema?",
     "answers": [
       {
         "text": "che i dispositivi di input del sistema devono essere posizionati in modo da essere sempre visibili agli utenti",
@@ -46,7 +46,7 @@
     "image": ""
   },
   {
-    "quest": "3) Nell’ambito dell’informatica pervasiva si intende per ambient display:",
+    "quest": "Nell’ambito dell’informatica pervasiva si intende per ambient display:",
     "answers": [
       {
         "text": "l’uso dell’ambiente fisico come interfaccia per l’informazione digitale",
@@ -65,7 +65,7 @@
     "image": ""
   },
   {
-    "quest": "4) Il paradigma a manipolazione diretta è caratterizzato da:",
+    "quest": "Il paradigma a manipolazione diretta è caratterizzato da:",
     "answers": [
       {
         "text": "invisibilità di una parte degli oggetti e feedback veloce",
@@ -88,7 +88,7 @@
     "image": ""
   },
   {
-    "quest": "5) Nell’ambito dell’informatica pervasiva, che cosa si intende per principio di intelligenza appropriata?",
+    "quest": "Nell’ambito dell’informatica pervasiva, che cosa si intende per principio di intelligenza appropriata?",
     "answers": [
       {
         "text": "che il sistema deve essere percepito dall’utente come una controparte umana",
@@ -111,7 +111,7 @@
     "image": ""
   },
   {
-    "quest": "6) Il termine mixed reality introdotto da Milgrim e Kishino si riferisce a:",
+    "quest": "Il termine mixed reality introdotto da Milgrim e Kishino si riferisce a:",
     "answers": [
       {
         "text": "paradigmi di interazione in cui vengono presentati all’utente in sequenza elementi reali ed elementi virtuali",
@@ -134,7 +134,7 @@
     "image": ""
   },
   {
-    "quest": "7) In uno degli articoli proposti nella bibliografia del corso (Comparative Feedback in the Street: Exposing Residential Energy Consumption on House Façades) gli autori descrivono uno studio sull’impatto sui comportamenti dovuti alla condivisione dei dati dei consumi energetici sulle facciate esternedelle abitazioni, e concludono che:",
+    "quest": "In uno degli articoli proposti nella bibliografia del corso (Comparative Feedback in the Street: Exposing Residential Energy Consumption on House Façades) gli autori descrivono uno studio sull’impatto sui comportamenti dovuti alla condivisione dei dati dei consumi energetici sulle facciate esterne delle abitazioni, e concludono che:",
     "answers": [
       {
         "text": "è fondamentale dare il dettaglio dei consumi in tempo reale",
@@ -157,7 +157,7 @@
     "image": ""
   },
   {
-    "quest": "8) Nell’ambito delle tecniche di prototipazione di un’interfaccia, che si intende per branching storyboard?",
+    "quest": "Nell’ambito delle tecniche di prototipazione di un’interfaccia, che si intende per branching storyboard?",
     "answers": [
       {
         "text": "una storyboard caratterizzata da uno schema lineare per mostrare i cambiamenti di stato dell’interfaccia a seguito dell’azione dell’utente o di altri eventi",
@@ -180,7 +180,7 @@
     "image": ""
   },
   {
-    "quest": "9) Le interfacce per l’eco-feedbacksi caratterizzano per:",
+    "quest": "Le interfacce per l’eco-feedback si caratterizzano per:",
     "answers": [
       {
         "text": "richiedere un consumo di energia molto basso, di provenienza esclusivamente rinnovabile",
@@ -191,7 +191,7 @@
         "image": ""
       },
       {
-        "text": "fornire agli utenti un feedback sonoro per il quale vengono utilizzati processori di ecoo di riverbero, atti a simulare luoghi chiusi e aperti molto ampi",
+        "text": "fornire agli utenti un feedback sonoro per il quale vengono utilizzati processori di eco o di riverbero, atti a simulare luoghi chiusi e aperti molto ampi",
         "image": ""
       }
     ],
@@ -199,7 +199,7 @@
     "image": ""
   },
   {
-    "quest": "10) Nell’ambito dell’informatica pervasiva, che cosa si intende per prossemica (proxemics)?",
+    "quest": "Nell’ambito dell’informatica pervasiva, che cosa si intende per prossemica (proxemics)?",
     "answers": [
       {
         "text": "lo studio dei tempi di interazione con un sistema pervasivo",
@@ -222,10 +222,10 @@
     "image": ""
   },
   {
-    "quest": "11) Tra le caratteristiche positive dei nuovi stili di interazione gestuale pensati per tablet e smartphone possiamo indicare:",
+    "quest": "Tra le caratteristiche positive dei nuovi stili di interazione gestuale pensati per tablet e smartphone possiamo indicare:",
     "answers": [
       {
-        "text": "la disponibilità e l’omogeneità di operazioni non distruttive, come l’undo",
+        "text": "la disponibilità e l’omogeneità di operazioni non distruttive, come l' undo",
         "image": ""
       },
       {
@@ -245,7 +245,7 @@
     "image": ""
   },
   {
-    "quest": "12) Nell’ambito del modello di interazione proposto da Don Norman (ciclo di esecuzione e di valutazione) il golfo di valutazione indica:",
+    "quest": "Nell’ambito del modello di interazione proposto da Don Norman (ciclo di esecuzione e di valutazione) il golfo di valutazione indica:",
     "answers": [
       {
         "text": "la differenza tra la formulazione delle azioni dell’utente e le azioni consentite",
@@ -268,7 +268,7 @@
     "image": ""
   },
   {
-    "quest": "14) Nell’ambito dell’informatica pervasiva per input implicito si intende:",
+    "quest": "Nell’ambito dell’informatica pervasiva per input implicito si intende:",
     "answers": [
       {
         "text": "le azioni che non richiedono un’interazione verbale da parte dell’utente",
@@ -291,7 +291,7 @@
     "image": ""
   },
   {
-    "quest": "16) Nell’ambito delle tecniche di prototipazione di un’interfaccia, che si intende per narrative storyboard?",
+    "quest": "Nell’ambito delle tecniche di prototipazione di un’interfaccia, che si intende per narrative storyboard?",
     "answers": [
       {
         "text": "una storyboard caratterizzata da uno schema lineare per mostrare i cambiamenti di stato dell’interfaccia a seguito dell’azione diretta dell’utente",
@@ -314,7 +314,7 @@
     "image": ""
   },
   {
-    "quest": "17) Qual è il significato dell’euristica ‘Controllo dell’utente e libertà?",
+    "quest": "Qual è il significato dell’euristica ‘Controllo dell’utente e libertà?",
     "answers": [
       {
         "text": "che agli utenti deve essere impedito di selezionare per errore le funzionalità del sistema",
@@ -337,7 +337,7 @@
     "image": ""
   },
   {
-    "quest": "18) I punti di forza delle interfacce tangibili (TUI) includono:",
+    "quest": "I punti di forza delle interfacce tangibili (TUI) includono:",
     "answers": [
       {
         "text": "la versatilità e la collaborazione",
@@ -356,7 +356,7 @@
     "image": ""
   },
   {
-    "quest": "19) I parametri che definiscono l’engagement dell’utente comprendono:",
+    "quest": "I parametri che definiscono l' engagement dell’utente comprendono:",
     "answers": [
       {
         "text": "l’attenzione focalizzata e la durabilità",
@@ -375,7 +375,7 @@
     "image": ""
   },
   {
-    "quest": "20) Il cosiddetto affective computing denota:",
+    "quest": "Il cosiddetto affective computing denota:",
     "answers": [
       {
         "text": "la computazione che influenza le emozioni degli utenti",
@@ -398,7 +398,7 @@
     "image": ""
   },
   {
-    "quest": "21) Le nuove interfacce gestuali da un certo punto di vista rappresentano un passo indietro dal punto di vista dell’usabilità, a causa:",
+    "quest": "Le nuove interfacce gestuali da un certo punto di vista rappresentano un passo indietro dal punto di vista dell’usabilità, a causa:",
     "answers": [
       {
         "text": "dell’incapacità dei cosiddetti nativi digitali ad effettuare manipolazioni con entrambe le mani",
@@ -409,7 +409,7 @@
         "image": ""
       },
       {
-        "text": "dellalimitata espressività delle interfacce gestuali",
+        "text": "della limitata espressività delle interfacce gestuali",
         "image": ""
       },
       {
@@ -421,7 +421,7 @@
     "image": ""
   },
   {
-    "quest": "22) Nell’ambito delle attività di prototipazione la tecnica del mago di Oz denota:",
+    "quest": "Nell’ambito delle attività di prototipazione la tecnica del mago di Oz denota:",
     "answers": [
       {
         "text": "l’implementazione fittizia di interfacce, costruita in modo tale che l’utente abbia l’impressione di interagire con un sistema realmente funzionante",
@@ -444,10 +444,10 @@
     "image": ""
   },
   {
-    "quest": "23) Tra le caratteristiche dei nuovi stili di interazione gestuale pensati per tablet e smartphone possiamo indicare:",
+    "quest": "Tra le caratteristiche dei nuovi stili di interazione gestuale pensati per tablet e smartphone possiamo indicare:",
     "answers": [
       {
-        "text": "la disponibilità e l’omogeneità di operazioni non distruttive, come l’undo",
+        "text": "la disponibilità e l’omogeneità di operazioni non distruttive, come l' undo",
         "image": ""
       },
       {
@@ -467,14 +467,14 @@
     "image": ""
   },
   {
-    "quest": "24) Nell'ambito delle interfacce WIMP le cosiddette finestre modalisi caratterizzano per:",
+    "quest": "Nell'ambito delle interfacce WIMP le cosiddette finestre modali si caratterizzano per:",
     "answers": [
       {
         "text": "bloccare la possibilità di interazioni ulteriori fino a quando l’utente non ha dato un OK o ha annullato le operazioni consentite dall’interfaccia della finestra",
         "image": ""
       },
       {
-        "text": "permettere di svolgere la stessa azione attraverso modalità diverse, scegliendo ad esempio una modalitàgrafica piuttosto che una a linea di comando",
+        "text": "permettere di svolgere la stessa azione attraverso modalità diverse, scegliendo ad esempio una modalità grafica piuttosto che una a linea di comando",
         "image": ""
       },
       {
@@ -486,7 +486,7 @@
     "image": ""
   },
   {
-    "quest": "25) L'euristica Consistenza e Standard indica che:",
+    "quest": "L'euristica Consistenza e Standard indica che:",
     "answers": [
       {
         "text": "gli oggetti, le azioni e le opzioni che fanno parte dell’interazione vanno resi visibili",
@@ -509,7 +509,7 @@
     "image": ""
   },
   {
-    "quest": "26) Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta narrative storyboardsi differenzia dalla sequential storyboard:",
+    "quest": "Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta narrative storyboard si differenzia dalla sequential storyboard:",
     "answers": [
       {
         "text": "per la descrizione del contesto in cui avviene l’interazione",
@@ -532,7 +532,7 @@
     "image": ""
   },
   {
-    "quest": "27) Nell’ambito della percezione uditiva, che cosa si intende per effetto mascheramento?",
+    "quest": "Nell’ambito della percezione uditiva, che cosa si intende per effetto mascheramento?",
     "answers": [
       {
         "text": "l’incapacità del sistema uditivo di distinguere, in determinate condizioni, suoni di livello diverso vicini nel tempo",
@@ -555,7 +555,7 @@
     "image": ""
   },
   {
-    "quest": "28) La tastiera Michela è un particolare tipo di dispositivo per l’input del testo:",
+    "quest": "La tastiera Michela è un particolare tipo di dispositivo per l’input del testo:",
     "answers": [
       {
         "text": "che ha lo stesso layout fisico di una tastiera QWERTY",
@@ -578,10 +578,10 @@
     "image": ""
   },
   {
-    "quest": "29)Nell’ambito del modello definito come Interaction Framework, che cosa succede durante la fase di articolazione?",
+    "quest": "Nell’ambito del modello definito come Interaction Framework, che cosa succede durante la fase di articolazione?",
     "answers": [
       {
-        "text": "Il linguaggio dei compitidell’utente viene tradottoinlinguaggio di input",
+        "text": "Il linguaggio dei compiti dell’utente viene tradotto in linguaggio di input",
         "image": ""
       },
       {
@@ -593,7 +593,7 @@
         "image": ""
       },
       {
-        "text": "L'inputvienetradotto nel linguaggio di base del sistema per attivare l’esecuzione",
+        "text": "L'input viene tradotto nel linguaggio di base del sistema per attivare l’esecuzione",
         "image": ""
       }
     ],
@@ -601,10 +601,10 @@
     "image": ""
   },
   {
-    "quest": "30) E’ corretto dire che, nella progettazione di dispositivi fisici, l’applicazione del concetto di affordance dovrebbe portare a:",
+    "quest": "E’ corretto dire che, nella progettazione di dispositivi fisici, l’applicazione del concetto di affordance dovrebbe portare a:",
     "answers": [
       {
-        "text": "utilizzare forme specifi che suggeriscano come svolgere la funzione",
+        "text": "utilizzare forme specifiche le quali suggeriscano come svolgere la funzione",
         "image": ""
       },
       {
@@ -624,7 +624,7 @@
     "image": ""
   },
   {
-    "quest": "31) Che cosa si intende per scheumorfismo?",
+    "quest": "Che cosa si intende per scheumorfismo?",
     "answers": [
       {
         "text": "E’ un ornamento apposto su un oggetto (digitale) allo scopo di richiamare le caratteristiche di un altro oggetto",
@@ -647,7 +647,7 @@
     "image": ""
   },
   {
-    "quest": "32) E’ corretto dire, secondo gli studi di O’Brien, che i sei parametri che definiscono l’engagement:",
+    "quest": "E’ corretto dire, secondo gli studi di O’Brien, che i sei parametri che definiscono l' engagement:",
     "answers": [
       {
         "text": "non sono indipendenti l’uno dall’altro",
@@ -658,7 +658,7 @@
         "image": ""
       },
       {
-        "text": "comprendono la consistenzae la durabilità",
+        "text": "comprendono la consistenza e la durabilità",
         "image": ""
       },
       {
@@ -670,7 +670,7 @@
     "image": ""
   },
   {
-    "quest": "33) Con il termine interazione a manipolazione diretta:",
+    "quest": "Con il termine interazione a manipolazione diretta:",
     "answers": [
       {
         "text": "i si riferisce ad un paradigma di interazione basato sull’invisibilità degli oggetti",
@@ -693,7 +693,7 @@
     "image": ""
   },
   {
-    "quest": "34) Nell'ambito delle tecniche di progettazionedi interfacce, è corretto dire che una storyboard sequenziale è assimilabile a:",
+    "quest": "Nell'ambito delle tecniche di progettazione di interfacce, è corretto dire che una storyboard sequenziale è assimilabile a:",
     "answers": [
       {
         "text": "un prototipo orizzontale",
@@ -716,7 +716,7 @@
     "image": ""
   },
   {
-    "quest": "35) E’ corretto dire che, nell’ambito delle interfacce olfattive,la diffusione di sistemi di output per la riproduzione di una grande varietà di odori è correntemente limitata:",
+    "quest": "E’ corretto dire che, nell’ambito delle interfacce olfattive,la diffusione di sistemi di output per la riproduzione di una grande varietà di odori è correntemente limitata:",
     "answers": [
       {
         "text": "dal grande costo delle essenze necessarie",
@@ -735,7 +735,7 @@
     "image": ""
   },
   {
-    "quest": "37) Il layout del tastierino numerico delle tastiere di computer deriva:",
+    "quest": "Il layout del tastierino numerico delle tastiere di computer deriva:",
     "answers": [
       {
         "text": "da uno dei primi studi sul layout dei tastierini numerici di Bell Labs",
@@ -750,7 +750,7 @@
         "image": ""
       },
       {
-        "text": "dal fatto che 0 e 1 sono i numeri più utilizzzati",
+        "text": "dal fatto che 0 e 1 sono i numeri più utilizzati",
         "image": ""
       }
     ],
@@ -758,10 +758,10 @@
     "image": ""
   },
   {
-    "quest": "41) Definire la relazione tra usabilità ed engagement:",
+    "quest": "Definire la relazione tra usabilità ed engagement:",
     "answers": [
       {
-        "text": "il concetto di engagementè utilizzato solo nella progettazione di sistemi di gioco interattivi",
+        "text": "il concetto di engagement è utilizzato solo nella progettazione di sistemi di gioco interattivi",
         "image": ""
       },
       {
@@ -773,7 +773,7 @@
         "image": ""
       },
       {
-        "text": "L’engagementè parte della definizionedel concetto di usabilità (secondo la definizione ISO)",
+        "text": "L' engagement è parte della definizione del concetto di usabilità (secondo la definizione ISO)",
         "image": ""
       }
     ],
@@ -781,10 +781,10 @@
     "image": ""
   },
   {
-    "quest": "42) Nell’ambito del modello definito come Interaction Framework, che cosa succede durante la fase di prestazione?",
+    "quest": "Nell’ambito del modello definito come Interaction Framework, che cosa succede durante la fase di prestazione?",
     "answers": [
       {
-        "text": "Il linguaggio dei compitidell’utente viene tradottoinlinguaggio di input",
+        "text": "Il linguaggio dei compiti dell’utente viene tradotto in linguaggio di input",
         "image": ""
       },
       {
@@ -796,7 +796,7 @@
         "image": ""
       },
       {
-        "text": "L'inputvienetradotto nel linguaggio di base del sistema per attivare l’esecuzione",
+        "text": "L'input viene tradotto nel linguaggio di base del sistema per attivare l’esecuzione",
         "image": ""
       }
     ],
@@ -804,14 +804,14 @@
     "image": ""
   },
   {
-    "quest": "43) Un’interfaccia tangibile",
+    "quest": "Un’interfaccia tangibile",
     "answers": [
       {
-        "text": "è un’interfaccia utente nella quale l’utente interagiscecon l’informazione digitale trasmettendo l’input attraverso oggetti fisici",
+        "text": "è un’interfaccia utente nella quale l’utente interagisce con l’informazione digitale trasmettendo l’input attraverso oggetti fisici",
         "image": ""
       },
       {
-        "text": "è un’interfaccia utente nella quale l’utente interagisce con gli oggetti tangibili trasmettendo l’input attraverso la mediazione dioggetti digitali",
+        "text": "è un’interfaccia utente nella quale l’utente interagisce con gli oggetti tangibili trasmettendo l’input attraverso la mediazione di oggetti digitali",
         "image": ""
       },
       {
@@ -823,7 +823,7 @@
     "image": ""
   },
   {
-    "quest": "44) I menu pull-down si differenziano rispetto ai menu fall-down perché",
+    "quest": "I menu pull-down si differenziano rispetto ai menu fall-down perché",
     "answers": [
       {
         "text": "vengono aperti automaticamente al passaggio del puntatore sui titoli",
@@ -842,7 +842,7 @@
     "image": ""
   },
   {
-    "quest": "45) Un campoX3D",
+    "quest": "Un campoX3D",
     "answers": [
       {
         "text": "è un’area in cui viene partizionato lo spazio della scena 3D",
@@ -853,7 +853,7 @@
         "image": ""
       },
       {
-        "text": "è un’entità di primolivello per definire primitivegeometrichedi interazione",
+        "text": "è un’entità di primo livello per definire primitive geometriche di interazione",
         "image": ""
       }
     ],
@@ -861,7 +861,7 @@
     "image": ""
   },
   {
-    "quest": "46) In un prototipo verticale di un'interfaccia",
+    "quest": "In un prototipo verticale di un'interfaccia",
     "answers": [
       {
         "text": "viene ridotto il livello di funzionalità del sistema, dando luogo a un'interfaccia con features non completamente implementate",
@@ -880,7 +880,7 @@
     "image": ""
   },
   {
-    "quest": "47) Le interfacce industriali si distinguono dalle interfacce a manipolazione diretta perché",
+    "quest": "Le interfacce industriali si distinguono dalle interfacce a manipolazione diretta perché",
     "answers": [
       {
         "text": "l'utente riceve un doppio output, dall'interfaccia e dal sistema",
@@ -899,7 +899,7 @@
     "image": ""
   },
   {
-    "quest": "48) Il ciclo di esecuzione e di valutazione di Norman",
+    "quest": "Il ciclo di esecuzione e di valutazione di Norman",
     "answers": [
       {
         "text": "definisce un modello di interazione uomo calcolatore basato sulla specifica di 7 fasi corrispondenti alle attività dell’utente",
@@ -918,7 +918,7 @@
     "image": ""
   },
   {
-    "quest": "49) Comparando i sistemi interattivi basati sull’uso del mouse e quelli basati sull’utilizzo delle gestures,è generalmente corretto affermare che:",
+    "quest": "Comparando i sistemi interattivi basati sull’uso del mouse e quelli basati sull’utilizzo delle gestures,è generalmente corretto affermare che:",
     "answers": [
       {
         "text": "i secondi sistemi si differenziano dai primi per un’espressività più limitata",
@@ -937,7 +937,7 @@
     "image": ""
   },
   {
-    "quest": "50) Le applicazioni context-aware vengono utilizzate in molti domini applicativi, e per scopi diversi, tra i quali",
+    "quest": "Le applicazioni context-aware vengono utilizzate in molti domini applicativi, e per scopi diversi, tra i quali",
     "answers": [
       {
         "text": "la comunicazione di un maggior numero di informazioni",
@@ -956,7 +956,7 @@
     "image": ""
   },
   {
-    "quest": "51) Nell’ambito dell’informatica pervasiva, sono utilizzati studi teorici a supporto della progettazione e della valutazione dell’esperienza. Tra i vari studi, èconsiderata la teoria delle attività, nella quale:",
+    "quest": "Nell’ambito dell’informatica pervasiva, sono utilizzati studi teorici a supporto della progettazione e della valutazione dell’esperienza. Tra i vari studi, è considerata la teoria delle attività, nella quale:",
     "answers": [
       {
         "text": "si da spazio all’aspetto dell’improvvisazione tipico del comportamento umano",
@@ -975,10 +975,10 @@
     "image": ""
   },
   {
-    "quest": "52) Nell’ambito della descrizione delparadigma a manipolazione direttasi fa riferimento alla metafora mondo modello, per la quale:",
+    "quest": "Nell’ambito della descrizione del paradigma a manipolazione diretta si fa riferimento alla metafora mondo modello, per la quale:",
     "answers": [
       {
-        "text": "l’interfaccia non viene percepita comeuna mediazione con il sistema sottostante, ma come il sistema",
+        "text": "l’interfaccia non viene percepita come una mediazione con il sistema sottostante, ma come il sistema",
         "image": ""
       },
       {
@@ -994,7 +994,7 @@
     "image": ""
   },
   {
-    "quest": "53) La tastiera DVORAK",
+    "quest": "La tastiera DVORAK",
     "answers": [
       {
         "text": "condivide con la tastiera QWERTY lo stesso layout fisico dei tasti",
@@ -1013,10 +1013,10 @@
     "image": ""
   },
   {
-    "quest": "54) I punti di forza di un’interfaccia tangibile includono:",
+    "quest": "I punti di forza di un’interfaccia tangibile includono:",
     "answers": [
       {
-        "text": "lascalabilità",
+        "text": "la scalabilità",
         "image": ""
       },
       {
@@ -1036,7 +1036,7 @@
     "image": ""
   },
   {
-    "quest": "55) Una finestra di dialogo modale",
+    "quest": "Una finestra di dialogo modale",
     "answers": [
       {
         "text": "permette di continuare in ogni momento l’interazione con le altre componenti dell’interfaccia che non fanno parte della finestra di dialogo",
@@ -1055,7 +1055,7 @@
     "image": ""
   },
   {
-    "quest": "56) La mixed reality",
+    "quest": "La mixed reality",
     "answers": [
       {
         "text": "è un altro modo per riferirsi alla realtà virtuale immersiva",
@@ -1074,7 +1074,7 @@
     "image": ""
   },
   {
-    "quest": "57) L’affordance di un oggetto consiste",
+    "quest": "L' affordance di un oggetto consiste",
     "answers": [
       {
         "text": "nella capacità dell’oggetto di suggerire, attraverso il proprio nome, le possibilità di interazione",
@@ -1093,7 +1093,7 @@
     "image": ""
   },
   {
-    "quest": "58) Qual è il significato dell’euristica ‘Riconoscimento anziché ricordo’?",
+    "quest": "Qual è il significato dell’euristica ‘Riconoscimento anziché ricordo’?",
     "answers": [
       {
         "text": "che è vantaggioso per l’interazione rendere gli oggetti e le azioni visibili",
@@ -1112,18 +1112,18 @@
     "image": ""
   },
   {
-    "quest": "59) La legge di Fitts afferma che è vantaggioso per l’interazione:",
+    "quest": "La legge di Fitts afferma che è vantaggioso per l’interazione:",
     "answers": [
       {
         "text": "definire oggetti interattivi di piccole dimensioni e posti a grande distanza tra di loro",
         "image": ""
       },
       {
-        "text": "definire oggetti interattivi di grandidimensioni e posti a piccoladistanza tra di loro",
+        "text": "definire oggetti interattivi di grandi dimensioni e posti a piccola distanza tra di loro",
         "image": ""
       },
       {
-        "text": "definire oggetti interattivi di grandidimensioni e posti a grande distanza tra di loro",
+        "text": "definire oggetti interattivi di grandi dimensioni e posti a grande distanza tra di loro",
         "image": ""
       },
       {
@@ -1135,7 +1135,7 @@
     "image": ""
   },
   {
-    "quest": "60) Il meccanismo di routing per i mondi X3D serve a:",
+    "quest": "Il meccanismo di routing per i mondi X3D serve a:",
     "answers": [
       {
         "text": "definire un meccanismo di navigazione per gli utenti del mondo interattivo",
@@ -1154,10 +1154,10 @@
     "image": ""
   },
   {
-    "quest": "61)Qual è il significato dell’euristica ‘Consistenza e standard’?",
+    "quest": "Qual è il significato dell’euristica ‘Consistenza e standard’?",
     "answers": [
       {
-        "text": "che è necessario seguire nella progettazione unnumero consistente di standard",
+        "text": "che è necessario seguire nella progettazione un numero consistente di standard",
         "image": ""
       },
       {
@@ -1173,7 +1173,7 @@
     "image": ""
   },
   {
-    "quest": "62)I punti di forza delle interfacce tangibili (TUI) includono",
+    "quest": "I punti di forza delle interfacce tangibili (TUI) includono",
     "answers": [
       {
         "text": "la versatilità e la malleabilità",
@@ -1192,7 +1192,7 @@
     "image": ""
   },
   {
-    "quest": "63)La realtà aumentata",
+    "quest": "La realtà aumentata",
     "answers": [
       {
         "text": "prevede l’esclusiva possibilità di sincronizzazione gli elementi virtuali con l’occhio dell’utente",
@@ -1211,7 +1211,7 @@
     "image": ""
   },
   {
-    "quest": "64)La definizione di golfo dell’esecuzione nel ciclo di esecuzione di Norman (uno dei modelli di interazione uomo calcolatore più famosi) indica",
+    "quest": "La definizione di golfo dell’esecuzione nel ciclo di esecuzione di Norman (uno dei modelli di interazione uomo calcolatore più famosi) indica",
     "answers": [
       {
         "text": "la differenza tra l’osservazione della risposta del sistema e la prestazione",
@@ -1230,7 +1230,7 @@
     "image": ""
   },
   {
-    "quest": "65)In un’interfaccia WIMP i menu linearisono preferibili ai menu a tortaperché",
+    "quest": "In un’interfaccia WIMP i menu lineari sono preferibili ai menu a torta perché",
     "answers": [
       {
         "text": "permettono di aumentare leggermente la produttività",
@@ -1253,7 +1253,7 @@
     "image": ""
   },
   {
-    "quest": "66)In un prototipo orizzontaledi un'interfaccia",
+    "quest": "In un prototipo orizzontale di un'interfaccia",
     "answers": [
       {
         "text": "viene ridotto il numero di features considerate, mostrando il funzionamento del sistema solo lungo percorsi precedentemente pianificati",
@@ -1272,7 +1272,7 @@
     "image": ""
   },
   {
-    "quest": "67) Nell’ambito delle interfacce per Apple Watch con il termine complicazione ci si riferisce a:",
+    "quest": "Nell’ambito delle interfacce per Apple Watch con il termine complicazione ci si riferisce a:",
     "answers": [
       {
         "text": "piccoli widget che forniscono informazioni aggiuntive oltre all’indicazione del tempo",
@@ -1291,10 +1291,10 @@
     "image": ""
   },
   {
-    "quest": "68) Nell'ambito della definizione di engagement, la durabilità esprime:",
+    "quest": "Nell'ambito della definizione di engagement, la durabilità esprime:",
     "answers": [
       {
-        "text": "ilcoinvolgimento emotivo del soggetto coinvolto",
+        "text": "il coinvolgimento emotivo del soggetto coinvolto",
         "image": ""
       },
       {
@@ -1314,7 +1314,7 @@
     "image": ""
   },
   {
-    "quest": "70) La tastiera DVORAK si differenzia dalla tastiera MICHELA per:",
+    "quest": "La tastiera DVORAK si differenzia dalla tastiera MICHELA per:",
     "answers": [
       {
         "text": "l'utilizzo della sola mano sinistra",
@@ -1337,7 +1337,7 @@
     "image": ""
   },
   {
-    "quest": "72) Nell’ambito delle tecniche di prototipazione di un’interfaccia, che cosa si intende per branching storyboard?",
+    "quest": "Nell’ambito delle tecniche di prototipazione di un’interfaccia, che cosa si intende per branching storyboard?",
     "answers": [
       {
         "text": "è uno storyboard nel quale vengono proposti gli screenshots dell’interfaccia senza alcun ordinamento particolare",
@@ -1356,7 +1356,7 @@
     "image": ""
   },
   {
-    "quest": "73) Per quanto riguarda i tempi di risposta ad uno stimolo sensoriale, è corretto affermare che:",
+    "quest": "Per quanto riguarda i tempi di risposta ad uno stimolo sensoriale, è corretto affermare che:",
     "answers": [
       {
         "text": "il tempo motorio è funzione del canale sensoriale e aumenta in caso di segnali misti (es. segnale uditivo + segnale visivo)",
@@ -1375,7 +1375,7 @@
     "image": ""
   },
   {
-    "quest": "74) Nell’ambito della progettazione ergonomica, si indica come keyhole effect (effetto buco della serratura):",
+    "quest": "Nell’ambito della progettazione ergonomica, si indica come keyhole effect (effetto buco della serratura):",
     "answers": [
       {
         "text": "la situazione positiva derivante dalla possibilità di concentrarsi solo sul proprio compito senza essere distratti da visualizzazioni di flussi informativi che devono essere gestiti da altri operatori",
@@ -1394,7 +1394,7 @@
     "image": ""
   },
   {
-    "quest": "75) Nell’ambito del modello definito come Interaction Framework, la fase di articolazione indica:",
+    "quest": "Nell’ambito del modello definito come Interaction Framework, la fase di articolazione indica:",
     "answers": [
       {
         "text": "la fase di conversione del linguaggio di base in linguaggio di output",
@@ -1417,14 +1417,14 @@
     "image": ""
   },
   {
-    "quest": "76) Nell'ambito delle tecniche di prototipazione, che cosa caratterizza la tecnica del Mago di Oz?",
+    "quest": "Nell'ambito delle tecniche di prototipazione, che cosa caratterizza la tecnica del Mago di Oz?",
     "answers": [
       {
         "text": "l'utilizzo di schemi su carta (paper mockup) anziché programmi funzionanti, con un esperto che fa la parte del computer e mostra lo schema di interfaccia successivo quando colui che prova l'applicazione seleziona un’azione sullo schema corrente",
         "image": ""
       },
       {
-        "text": "la necessità, da parte dei valutatori, di indossare i costumi dei protagonisti del noto romanzo, al fine di aumentare l'engagement dei bambini che provano l'interfaccia",
+        "text": "la necessità, da parte dei valutatori, di indossare i costumi dei protagonisti del noto romanzo, al fine di aumentare l' engagement dei bambini che provano l'interfaccia",
         "image": ""
       },
       {
@@ -1440,7 +1440,7 @@
     "image": ""
   },
   {
-    "quest": "77) Indicare quale delle seguenti affermazioni contrasta con le 10 euristiche di usabilità di Nielsen:",
+    "quest": "Indicare quale delle seguenti affermazioni contrasta con le 10 euristiche di usabilità di Nielsen:",
     "answers": [
       {
         "text": "il sistema dovrebbe parlare il linguaggio dell'utente",
@@ -1463,10 +1463,10 @@
     "image": ""
   },
   {
-    "quest": "80) Nell’ambito dell’informatica pervasiva si considera il concetto di engagement, che tra i parametri che lo definiscono comprende:",
+    "quest": "Nell’ambito dell’informatica pervasiva si considera il concetto di engagement, che tra i parametri che lo definiscono comprende:",
     "answers": [
       {
-        "text": "l’esteticae la visibilità degli oggetti",
+        "text": "l’estetica e la visibilità degli oggetti",
         "image": ""
       },
       {
@@ -1474,7 +1474,7 @@
         "image": ""
       },
       {
-        "text": "il coinvolgimento percepitoe l'attenzione focalizzata",
+        "text": "il coinvolgimento percepito e l'attenzione focalizzata",
         "image": ""
       },
       {
@@ -1486,7 +1486,7 @@
     "image": ""
   },
   {
-    "quest": "81) Nell’ambito della risposta sensoriale ad uno stimolo esterno, è corretto affermare che il tempo di reazione:\ndiminuisce quando lo stimolo avviene su un canale misto (es. uditivo e visivo)",
+    "quest": "Nell’ambito della risposta sensoriale ad uno stimolo esterno, è corretto affermare che il tempo di reazione:\ndiminuisce quando lo stimolo avviene su un canale misto (es. uditivo e visivo)",
     "answers": [
       {
         "text": "è indipendente dal canale sensoriale",
@@ -1505,7 +1505,7 @@
     "image": ""
   },
   {
-    "quest": "82) Le interfaccea manipolazione diretta si caratterizzano per:",
+    "quest": "Le interfacce a manipolazione diretta si caratterizzano per:",
     "answers": [
       {
         "text": "l'irreversibilità delle azioni",
@@ -1528,14 +1528,14 @@
     "image": ""
   },
   {
-    "quest": "84) Il concetto di affordanceesprime:",
+    "quest": "Il concetto di affordance esprime:",
     "answers": [
       {
         "text": "la capacità di un oggetto fisico di suggerire, tramite la propria forma, la funzione a cui è preposto",
         "image": ""
       },
       {
-        "text": "la possibilità di produzionedi un oggetto fisico a basso costo, per permettere una distribuzione ampia",
+        "text": "la possibilità di produzione di un oggetto fisico a basso costo, per permettere una distribuzione ampia",
         "image": ""
       },
       {
@@ -1547,7 +1547,7 @@
     "image": ""
   },
   {
-    "quest": "85) Nell’ambito delle attività di valutazione dell’usabilità dell’interfaccia le tecniche di ispezione:",
+    "quest": "Nell’ambito delle attività di valutazione dell’usabilità dell’interfaccia le tecniche di ispezione:",
     "answers": [
       {
         "text": "prevedono che un elevato numero di utenti esaminino gli aspetti di usabilità di un prodotto",
@@ -1570,14 +1570,14 @@
     "image": ""
   },
   {
-    "quest": "86) Lo studio “Why don’t Families Get along with Eco-Feedback Technologies?” analizza le tecnologie di eco-feedback in un contesto familiare.Quali delle seguenti affermazioni corrisponde a indicazioni che si possono derivare dallo studio?",
+    "quest": "Lo studio “Why don’t Families Get along with Eco-Feedback Technologies?” analizza le tecnologie di eco-feedback in un contesto familiare.Quali delle seguenti affermazioni corrisponde a indicazioni che si possono derivare dallo studio?",
     "answers": [
       {
         "text": "il sistema di eco-feedback dovrebbe dare solo informazioni generali, lasciando agli utenti il compito di elaborare strategie di azione giornaliere",
         "image": ""
       },
       {
-        "text": "non ci sono benefici nel rendere il sistema di eco-feedback accessibile atutta la famiglia, dal momento che le decisioni vengono comunque prese dagli adulti",
+        "text": "non ci sono benefici nel rendere il sistema di eco-feedback accessibile a tutta la famiglia, dal momento che le decisioni vengono comunque prese dagli adulti",
         "image": ""
       },
       {
@@ -1593,7 +1593,7 @@
     "image": ""
   },
   {
-    "quest": "87) Indicare quale delle seguenti affermazioni, relative all'informatica pervasiva e all'informatica interattiva, è vera.",
+    "quest": "Indicare quale delle seguenti affermazioni, relative all'informatica pervasiva e all'informatica interattiva, è vera.",
     "answers": [
       {
         "text": "l'informatica pervasiva richiede che l'utente comunichi esplicitamente al sistema che cosa fare",
@@ -1616,7 +1616,7 @@
     "image": ""
   },
   {
-    "quest": "88) Indicare quale delle seguenti affermazioni, relative ai concetti di usabilità ed engagement, è vera.",
+    "quest": "Indicare quale delle seguenti affermazioni, relative ai concetti di usabilità ed engagement, è vera.",
     "answers": [
       {
         "text": "usabilità ed engagement sono due concetti separati che vengono utilizzati in ambiti applicativi completamente diversi",
@@ -1639,7 +1639,7 @@
     "image": ""
   },
   {
-    "quest": "89) Indicare quale delle seguenti affermazioni contrasta con una delle 10 euristiche di usabilità di Nielsen:",
+    "quest": "Indicare quale delle seguenti affermazioni contrasta con una delle 10 euristiche di usabilità di Nielsen:",
     "answers": [
       {
         "text": "vanno predisposte uscite di emergenza per lasciare lo stato dell'interazione in cui ci si trova",
@@ -1662,7 +1662,7 @@
     "image": ""
   },
   {
-    "quest": "90) Nell’ambito delle tecniche di prototipazione di un’interfaccia, una narrative storyboard si distingue per:",
+    "quest": "Nell’ambito delle tecniche di prototipazione di un’interfaccia, una narrative storyboard si distingue per:",
     "answers": [
       {
         "text": "l'utilizzo di una voce narrante che descrive lo scenario dell'interfaccia",
@@ -1685,7 +1685,7 @@
     "image": ""
   },
   {
-    "quest": "91) Le interfacce industriali si distinguono dalle interfacce a manipolazione diretta:",
+    "quest": "Le interfacce industriali si distinguono dalle interfacce a manipolazione diretta:",
     "answers": [
       {
         "text": "per avere solamente un’interfaccia di input",
@@ -1708,7 +1708,7 @@
     "image": ""
   },
   {
-    "quest": "92) Il paradigma a manipolazione diretta si distingue dal paradigma linguistico:",
+    "quest": "Il paradigma a manipolazione diretta si distingue dal paradigma linguistico:",
     "answers": [
       {
         "text": "perché è più difficile da apprendere",
@@ -1731,7 +1731,7 @@
     "image": ""
   },
   {
-    "quest": "93) Il layout del tastierino numerico usato in telefonia e basato su una matrice rettangolare nella quale i numeri 1 2 3 stanno nella riga superiore deriva:",
+    "quest": "Il layout del tastierino numerico usato in telefonia e basato su una matrice rettangolare nella quale i numeri 1 2 3 stanno nella riga superiore deriva:",
     "answers": [
       {
         "text": "dalla trasposizione del layout utilizzato nelle calcolatrici meccaniche",
@@ -1754,7 +1754,7 @@
     "image": ""
   },
   {
-    "quest": "94) Il concetto di eco-feedback:",
+    "quest": "Il concetto di eco-feedback:",
     "answers": [
       {
         "text": "si riferisce alle modalità di utilizzo del canale sonoro per la comunicazione a grande distanza in sistemi pervasivi",
@@ -1773,7 +1773,7 @@
     "image": ""
   },
   {
-    "quest": "95) Nell’ambito del modello definito come Interaction Framework, il mapping tra il linguaggio del compito e il linguaggio di input dell'interfaccia viene svolto nella fase di:",
+    "quest": "Nell’ambito del modello definito come Interaction Framework, il mapping tra il linguaggio del compito e il linguaggio di input dell'interfaccia viene svolto nella fase di:",
     "answers": [
       {
         "text": "presentazione",
@@ -1796,7 +1796,7 @@
     "image": ""
   },
   {
-    "quest": "96) In uno degli articoli proposti nella bibliografia del corso (Comparative Feedback in the Street: Exposing Residential Energy Consumption on House Façades) gli autori descrivono uno studio sull’impatto sui comportamenti dovuti alla condivisione dei dati dei consumi energetici sulle facciate esterne delle abitazioni, e concludono che:",
+    "quest": "In uno degli articoli proposti nella bibliografia del corso (Comparative Feedback in the Street: Exposing Residential Energy Consumption on House Façades) gli autori descrivono uno studio sull’impatto sui comportamenti dovuti alla condivisione dei dati dei consumi energetici sulle facciate esterne delle abitazioni, e concludono che:",
     "answers": [
       {
         "text": "è essenziale dare informazioni sui consumi in tempo reale",
@@ -1815,7 +1815,7 @@
     "image": ""
   },
   {
-    "quest": "97) Nell'ambito dell'informatica pervasiva il principio di intelligenza appropriata:",
+    "quest": "Nell'ambito dell'informatica pervasiva il principio di intelligenza appropriata:",
     "answers": [
       {
         "text": "indica che il sistema deve eseguire almeno il 5% di previsioni corrette ed utili",
@@ -1838,7 +1838,7 @@
     "image": ""
   },
   {
-    "quest": "98) Nell’ambito del modello definito come Interaction Framework, il mapping tra il linguaggio di base e il linguaggio di output dell'interfaccia viene svolto nella fase di:",
+    "quest": "Nell’ambito del modello definito come Interaction Framework, il mapping tra il linguaggio di base e il linguaggio di output dell'interfaccia viene svolto nella fase di:",
     "answers": [
       {
         "text": "osservazione",
@@ -1861,7 +1861,7 @@
     "image": ""
   },
   {
-    "quest": "99) Definire quale dei seguenti parametri non viene considerato nella definizione di engagement secondo O'Brien:",
+    "quest": "Definire quale dei seguenti parametri non viene considerato nella definizione di engagement secondo O'Brien:",
     "answers": [
       {
         "text": "coinvolgimento percepito",
@@ -1884,7 +1884,7 @@
     "image": ""
   },
   {
-    "quest": "100) Nell’ambito delle tecniche di prototipazione di un’interfaccia, una branching storyboard si distingue per:",
+    "quest": "Nell’ambito delle tecniche di prototipazione di un’interfaccia, una branching storyboard si distingue per:",
     "answers": [
       {
         "text": "l'utilizzo di uno schema lineare per mostrare i cambiamenti di stato dell’interfaccia a seguito dell’azione dell’utente o di altri eventi",
@@ -1907,7 +1907,7 @@
     "image": ""
   },
   {
-    "quest": "101) Correntemente le interfacce basate sullo stile di interazione WIMP si distinguono da quelle basate sullo stile di interazione touch-based per:",
+    "quest": "Correntemente le interfacce basate sullo stile di interazione WIMP si distinguono da quelle basate sullo stile di interazione touch-based per:",
     "answers": [
       {
         "text": "la maggiore espressività nell'input",
@@ -1930,14 +1930,14 @@
     "image": ""
   },
   {
-    "quest": "102) Nell’ambito dei sistemi di input, la motivazione per la quale tuttora la tastiera QWERTY è la più utilizzata è:",
+    "quest": "Nell’ambito dei sistemi di input, la motivazione per la quale tuttora la tastiera QWERTY è la più utilizzata è:",
     "answers": [
       {
-        "text": "la maggiore velocità rispetto alle soluzioni concorrent",
+        "text": "la maggiore velocità rispetto alle soluzioni concorrenti",
         "image": ""
       },
       {
-        "text": "la minore fatica rispetto alle soluzioni concorrent",
+        "text": "la minore fatica rispetto alle soluzioni concorrenti",
         "image": ""
       },
       {
@@ -1953,7 +1953,7 @@
     "image": ""
   },
   {
-    "quest": "104) In uno degli articoli proposti nella bibliografia del corso (SINAIS from Fanal) gli autori descrivono la progettazione e la valutazione di un sistema di eco-feedback giungendo alla conclusione che:",
+    "quest": "In uno degli articoli proposti nella bibliografia del corso (SINAIS from Fanal) gli autori descrivono la progettazione e la valutazione di un sistema di eco-feedback giungendo alla conclusione che:",
     "answers": [
       {
         "text": "le soluzioni di eco-feedback basate su semplici rappresentazioni numeriche alla fine sono le più efficaci nel suscitare per lungo tempo l'attenzione degli utenti",
@@ -1972,7 +1972,7 @@
     "image": ""
   },
   {
-    "quest": "105) E' corretto affermare che il numero di colori a cui viene assegnato un nome :",
+    "quest": "E' corretto affermare che il numero di colori a cui viene assegnato un nome :",
     "answers": [
       {
         "text": "dipende dalle culture.",
@@ -1995,7 +1995,7 @@
     "image": ""
   },
   {
-    "quest": "106) E' corretto dire che il software Graffiti per il riconoscimento della scrittura:",
+    "quest": "E' corretto dire che il software Graffiti per il riconoscimento della scrittura:",
     "answers": [
       {
         "text": "permette il riconoscimento di qualsiasi stile di scrittura individuale.",
@@ -2018,7 +2018,7 @@
     "image": ""
   },
   {
-    "quest": "108) Indicare quale delle seguenti affermazioni contrasta con le 10 euristiche di usabilità di Nielsen:",
+    "quest": "Indicare quale delle seguenti affermazioni contrasta con le 10 euristiche di usabilità di Nielsen:",
     "answers": [
       {
         "text": "è bene permettere all'utente di personalizzare lo svolgimento delle azioni frequenti",
@@ -2041,7 +2041,7 @@
     "image": ""
   },
   {
-    "quest": "109) Lo studio “Why don’t Families Get along with Eco-Feedback Technologies?” analizza le tecnologie di eco-feedback in un contesto familiare. Quali delle seguenti affermazioni corrisponde a indicazioni che si possono derivare dallo studio?\nconsapevolezza dei consumi individuali",
+    "quest": "Lo studio “Why don’t Families Get along with Eco-Feedback Technologies?” analizza le tecnologie di eco-feedback in un contesto familiare. Quali delle seguenti affermazioni corrisponde a indicazioni che si possono derivare dallo studio?\nconsapevolezza dei consumi individuali",
     "answers": [
       {
         "text": "il sistema di eco-feedback dovrebbe includere una vista a volo d’uccello dei consumi della famiglia",
@@ -2064,7 +2064,7 @@
     "image": ""
   },
   {
-    "quest": "112) Lo studio “Why don’t Families Get along with Eco-Feedback Technologies?” analizza le tecnologie di eco-feedback in un contesto familiare. Quali delle seguenti affermazioni corrisponde a indicazioni che si possono derivare dallo studio?\nconsapevolezza dei consumi individuali",
+    "quest": "Lo studio “Why don’t Families Get along with Eco-Feedback Technologies?” analizza le tecnologie di eco-feedback in un contesto familiare. Quali delle seguenti affermazioni corrisponde a indicazioni che si possono derivare dallo studio?\nconsapevolezza dei consumi individuali",
     "answers": [
       {
         "text": "il sistema di eco-feedback dovrebbe includere una vista a volo d’uccello dei consumi della famiglia",
@@ -2087,7 +2087,7 @@
     "image": ""
   },
   {
-    "quest": "113) Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta narrative storyboard si differenzia dalla branching storyboard:",
+    "quest": "Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta narrative storyboard si differenzia dalla branching storyboard:",
     "answers": [
       {
         "text": "per la descrizione del contesto in cui avviene l’interazione",
@@ -2110,7 +2110,7 @@
     "image": ""
   },
   {
-    "quest": "114) Nell’ambito della risposta sensoriale ad uno stimolo esterno, è corretto affermare che il tempo motorio:",
+    "quest": "Nell’ambito della risposta sensoriale ad uno stimolo esterno, è corretto affermare che il tempo motorio:",
     "answers": [
       {
         "text": "è dipendente dal canale sensoriale",
@@ -2133,7 +2133,7 @@
     "image": ""
   },
   {
-    "quest": "115) Nell’ambito del modello definito come Interaction Framework, che cosa succede durante la fase di presentazione?",
+    "quest": "Nell’ambito del modello definito come Interaction Framework, che cosa succede durante la fase di presentazione?",
     "answers": [
       {
         "text": "il compito dell’utente viene articolato all’interno del linguaggio di input",
@@ -2156,7 +2156,7 @@
     "image": ""
   },
   {
-    "quest": "117) Le interfacce a righe di comando si distinguono per:",
+    "quest": "Le interfacce a righe di comando si distinguono per:",
     "answers": [
       {
         "text": "la manipolazione di oggetti visibili",
@@ -2179,7 +2179,7 @@
     "image": ""
   },
   {
-    "quest": "118) Nell’ambito dell’informatica pervasiva, per iHCI si intende:\nnel corso del quale il sistema pervasivo acquisisce anche input implicito",
+    "quest": "Nell’ambito dell’informatica pervasiva, per iHCI si intende:\nnel corso del quale il sistema pervasivo acquisisce anche input implicito",
     "answers": [
       {
         "text": "l’interazione dell’uomo con un dispositivo smart, basata sull’uso di un set di app",
@@ -2198,7 +2198,7 @@
     "image": ""
   },
   {
-    "quest": "119) Per quanto riguarda le capacità percettive del nostro apparato uditivo, che cosa si intende per effetto cocktail?",
+    "quest": "Per quanto riguarda le capacità percettive del nostro apparato uditivo, che cosa si intende per effetto cocktail?",
     "answers": [
       {
         "text": "la capacità del sistema uditivo di comprendere una conversazione che comprende una miscela di termini appartenenti a lingue diverse",
@@ -2217,7 +2217,7 @@
     "image": ""
   },
   {
-    "quest": "120) Nell’ambito della risposta sensoriale ad uno stimolo esterno, è corretto affermare che il tempo motorio:",
+    "quest": "Nell’ambito della risposta sensoriale ad uno stimolo esterno, è corretto affermare che il tempo motorio:",
     "answers": [
       {
         "text": "è dipendente dal canale sensoriale",
@@ -2240,7 +2240,7 @@
     "image": ""
   },
   {
-    "quest": "128) Qual è il significato dell’euristica controllo dell’utente e libertà?",
+    "quest": "Qual è il significato dell’euristica controllo dell’utente e libertà?",
     "answers": [
       {
         "text": "che gli utenti non devono avere la possibilità di selezionare funzionalità del sistema per errore;",
@@ -2255,7 +2255,7 @@
         "image": ""
       },
       {
-        "text": "che gli utenti devono avere a disposizioneuscite di emergenza, ma ben celate per non disturbare il normale flusso dell’interazione",
+        "text": "che gli utenti devono avere a disposizione uscite di emergenza, ma ben celate per non disturbare il normale flusso dell’interazione",
         "image": ""
       }
     ],
@@ -2263,10 +2263,10 @@
     "image": ""
   },
   {
-    "quest": "129) Nell’ambito degli studi legati alla percezione umana, per effetto mascheramentosi intende:",
+    "quest": "Nell’ambito degli studi legati alla percezione umana, per effetto mascheramento si intende:",
     "answers": [
       {
-        "text": "l’impossibilità di riconoscere la vocedi una persona in ambienti molto rumorosi;",
+        "text": "l’impossibilità di riconoscere la voce di una persona in ambienti molto rumorosi;",
         "image": ""
       },
       {
@@ -2286,14 +2286,14 @@
     "image": ""
   },
   {
-    "quest": "130) In uno degli articoli proposti nella bibliografia del corso (Why don’t families get along with eco-feedback Technologies) gli autori affrontano con uno studio il tema dell’assorbimento dell’informazione data dal sistema di eco-feedback (incorporation), e notano che:",
+    "quest": "In uno degli articoli proposti nella bibliografia del corso (Why don’t families get along with eco-feedback Technologies) gli autori affrontano con uno studio il tema dell’assorbimento dell’informazione data dal sistema di eco-feedback (incorporation), e notano che:",
     "answers": [
       {
         "text": "gli utenti che hanno fatto parte dello studio si sono sentiti a disagio quando sono stati dati loro come punto di riferimento i costi legati ai comportamenti correnti;",
         "image": ""
       },
       {
-        "text": "gli utenti che hanno fatto parte dello studio hanno avuto difficoltà nell’agire a seguito dell’informazionericevuta,nel caso in cui l’informazione fossestata fornita con un basso grado di dettaglio;",
+        "text": "gli utenti che hanno fatto parte dello studio hanno avuto difficoltà nell’agire a seguito dell’informazione ricevuta,nel caso in cui l’informazione fosse stata fornita con un basso grado di dettaglio;",
         "image": ""
       },
       {
@@ -2301,7 +2301,7 @@
         "image": ""
       },
       {
-        "text": "gli utenti che hanno fatto parte dello studio hanno avuto difficoltà nell’agire a seguito dell’informazionericevuta,nel caso in cui l’informazione fossestata fornita con un elevato grado di dettaglio",
+        "text": "gli utenti che hanno fatto parte dello studio hanno avuto difficoltà nell’agire a seguito dell’informazione ricevuta,nel caso in cui l’informazione fosse stata fornita con un elevato grado di dettaglio",
         "image": ""
       }
     ],
@@ -2309,7 +2309,7 @@
     "image": ""
   },
   {
-    "quest": "131) Nell’ambito dell’informatica pervasiva, i concetti di informatica quotidianae interazione continuasi riferiscono:",
+    "quest": "Nell’ambito dell’informatica pervasiva, i concetti di informatica quotidiana e interazione continuasi riferiscono:",
     "answers": [
       {
         "text": "allo svolgimento di attività che hanno un inizio ed una fine ben definiti;",
@@ -2332,7 +2332,7 @@
     "image": ""
   },
   {
-    "quest": "132) Nell’ambito dell’ergonomia, che cosa si intende per keyhole effect (effetto buco della serratura)?",
+    "quest": "Nell’ambito dell’ergonomia, che cosa si intende per keyhole effect (effetto buco della serratura)?",
     "answers": [
       {
         "text": "una situazione che si verifica quando l’utente deve accedere ad un’interfaccia con un visore monoculare;",
@@ -2355,7 +2355,7 @@
     "image": ""
   },
   {
-    "quest": "133) Il paradigma a manipolazione direttaè caratterizzato da:",
+    "quest": "Il paradigma a manipolazione diretta è caratterizzato da:",
     "answers": [
       {
         "text": "irreversibilità delle azioni;",
@@ -2378,14 +2378,14 @@
     "image": ""
   },
   {
-    "quest": "134) Secondo la ricerca scientifica, le attuali interfacce basate sull’uso di gestures sono caratterizzate da:",
+    "quest": "Secondo la ricerca scientifica, le attuali interfacce basate sull’uso di gestures sono caratterizzate da:",
     "answers": [
       {
         "text": "una bassa espressività;",
         "image": ""
       },
       {
-        "text": "la disponibilitàdi linee guida riconosciute;",
+        "text": "la disponibilità di linee guida riconosciute;",
         "image": ""
       },
       {
@@ -2401,10 +2401,10 @@
     "image": ""
   },
   {
-    "quest": "136) Qual è il significato dell’euristica riconoscimento anziché ricordo?",
+    "quest": "Qual è il significato dell’euristica riconoscimento anziché ricordo?",
     "answers": [
       {
-        "text": "che,per favorire l’interazione,gli oggetti e le azioni dell’interazionestessavanno resi visibili;",
+        "text": "che,per favorire l’interazione,gli oggetti e le azioni dell’interazione stessa vanno resi visibili;",
         "image": ""
       },
       {
@@ -2424,7 +2424,7 @@
     "image": ""
   },
   {
-    "quest": "138) Nell’ambito degli studi legati alla percezione umana, per effetto cocktailsi intende:",
+    "quest": "Nell’ambito degli studi legati alla percezione umana, per effetto cocktail si intende:",
     "answers": [
       {
         "text": "uno stato di frastornamento legato all’eccesso di stimoli uditivi di un ambiente;",
@@ -2447,22 +2447,22 @@
     "image": ""
   },
   {
-    "quest": "140) In uno degli articoli proposti nella bibliografia del corso (Why don’t families get along with eco-feedback Technologies) gli autori affrontano con uno studio il tema dell’assorbimento dell’informazione data dal sistema di eco-feedback (incorporation), e notanoche:",
+    "quest": "In uno degli articoli proposti nella bibliografia del corso (Why don’t families get along with eco-feedback Technologies) gli autori affrontano con uno studio il tema dell’assorbimento dell’informazione data dal sistema di eco-feedback (incorporation), e notano che:",
     "answers": [
       {
-        "text": "gli utenti che hanno fatto parte dello studio hanno avuto difficoltà nell’agire a seguito dell’informazionericevuta,nel caso in cui l’informazione fossestata fornita con un elevato grado di dettaglio;",
+        "text": "gli utenti che hanno fatto parte dello studio hanno avuto difficoltà nell’agire a seguito dell’informazione ricevuta,nel caso in cui l’informazione fosse stata fornita con un elevato grado di dettaglio;",
         "image": ""
       },
       {
-        "text": "gli utenti che hanno fatto parte dello studio si sono sentiti a disagio quando sono stati dati lorocome puntodi riferimento la comparazione con comportamenti ottimali;",
+        "text": "gli utenti che hanno fatto parte dello studio si sono sentiti a disagio quando sono stati dati loro come punto di riferimento la comparazione con comportamenti ottimali;",
         "image": ""
       },
       {
-        "text": "gli utenti che hanno fatto parte dello studio hanno avuto difficoltà nell’agire a seguito dell’informazionericevuta,nel caso in cui l’informazione fossestata fornita con un basso grado di dettaglio;",
+        "text": "gli utenti che hanno fatto parte dello studio hanno avuto difficoltà nell’agire a seguito dell’informazione ricevuta,nel caso in cui l’informazione fosse stata fornita con un basso grado di dettaglio;",
         "image": ""
       },
       {
-        "text": "gli utenti che hanno fatto parte dello studio si sono sentiti a disagio quando sono stati dati loro come puntodi riferimento i costi legati ai comportamenti correnti",
+        "text": "gli utenti che hanno fatto parte dello studio si sono sentiti a disagio quando sono stati dati loro come punto di riferimento i costi legati ai comportamenti correnti",
         "image": ""
       }
     ],
@@ -2470,14 +2470,14 @@
     "image": ""
   },
   {
-    "quest": "141) Nell’ambito dell’informatica pervasiva, è corretto dire che:",
+    "quest": "Nell’ambito dell’informatica pervasiva, è corretto dire che:",
     "answers": [
       {
-        "text": "l’output esplicito costituisce un canale di comunicazione diretto tra utente e ambiente, che non passa attraversol’applicazione di informatica pervasiva;",
+        "text": "l’output esplicito costituisce un canale di comunicazione diretto tra utente e ambiente, che non passa attraverso l’applicazione di informatica pervasiva;",
         "image": ""
       },
       {
-        "text": "l’output esplicitonon dovrebbe mai affiancare l’output esplicito dell’interfaccia;",
+        "text": "l’output esplicito non dovrebbe mai affiancare l’output esplicito dell’interfaccia;",
         "image": ""
       },
       {
@@ -2493,7 +2493,7 @@
     "image": ""
   },
   {
-    "quest": "142) Ilparadigma a manipolazione diretta è caratterizzato da:",
+    "quest": "Il paradigma a manipolazione diretta è caratterizzato da:",
     "answers": [
       {
         "text": "sostituzione di azioni per la manipolazione di oggetti visibili con linguaggi di comando;",
@@ -2504,7 +2504,7 @@
         "image": ""
       },
       {
-        "text": "chiara separazionedel linguaggio di input e del linguaggio di output;",
+        "text": "chiara separazione del linguaggio di input e del linguaggio di output;",
         "image": ""
       },
       {
@@ -2516,7 +2516,7 @@
     "image": ""
   },
   {
-    "quest": "143) Nel contesto dell'informatica pervasiva, un sistema che segue il principio dell'intelligenza appropriata:",
+    "quest": "Nel contesto dell'informatica pervasiva, un sistema che segue il principio dell'intelligenza appropriata:",
     "answers": [
       {
         "text": "Raramente fa previsioni corrette;",
@@ -2539,7 +2539,7 @@
     "image": ""
   },
   {
-    "quest": "144) Per quanto riguarda i dispositivi di input che utilizzano la tastiera, è corretto affermare che:",
+    "quest": "Per quanto riguarda i dispositivi di input che utilizzano la tastiera, è corretto affermare che:",
     "answers": [
       {
         "text": "Non ci sono differenze significative per un dattilografo esperto;",
@@ -2562,7 +2562,7 @@
     "image": ""
   },
   {
-    "quest": "145) Gli stili di interazione basati sull'uso dei gesti, rispetto agli stili WIMP basati sull'uso del mouse:",
+    "quest": "Gli stili di interazione basati sull'uso dei gesti, rispetto agli stili WIMP basati sull'uso del mouse:",
     "answers": [
       {
         "text": "Sono caratterizzati da una minore espressività;",
@@ -2585,7 +2585,7 @@
     "image": ""
   },
   {
-    "quest": "147) Nell’ambito dell’architettura dell’informazione, che cosa si intende per navigazione verticale?",
+    "quest": "Nell’ambito dell’architettura dell’informazione, che cosa si intende per navigazione verticale?",
     "answers": [
       {
         "text": "La navigazione tra elementi della gerarchia informativa che sono figli di uno stesso padre",
@@ -2604,7 +2604,7 @@
     "image": ""
   },
   {
-    "quest": "148) Nell’ambito dell’architettura dell’informazione, gli schemi organizzativi esatti:",
+    "quest": "Nell’ambito dell’architettura dell’informazione, gli schemi organizzativi esatti:",
     "answers": [
       {
         "text": "sono utili per ricerche di tipo esplorativo",
@@ -2627,7 +2627,7 @@
     "image": ""
   },
   {
-    "quest": "149) È corretto dire che le tastiere QWERTY sono state progettate per:",
+    "quest": "È corretto dire che le tastiere QWERTY sono state progettate per:",
     "answers": [
       {
         "text": "superare la velocità di battitura raggiungibile con le tastiere DVORAK",
@@ -2650,7 +2650,7 @@
     "image": ""
   },
   {
-    "quest": "151) È corretto dire che, nel contesto del tempo di risposta a uno stimolo, il tempo di reazione:",
+    "quest": "È corretto dire che, nel contesto del tempo di risposta a uno stimolo, il tempo di reazione:",
     "answers": [
       {
         "text": "è funzione del canale sensoriale",
@@ -2669,7 +2669,7 @@
     "image": ""
   },
   {
-    "quest": "152) Definire quale dei seguenti parametri non viene considerato nella definizione di engagement secondo O'Brien:",
+    "quest": "Definire quale dei seguenti parametri non viene considerato nella definizione di engagement secondo O'Brien:",
     "answers": [
       {
         "text": "estetica",
@@ -2692,7 +2692,7 @@
     "image": ""
   },
   {
-    "quest": "153) Nell’ambito dell’architettura dell’informazione, che cosa si intende per navigazione orizzontale?",
+    "quest": "Nell’ambito dell’architettura dell’informazione, che cosa si intende per navigazione orizzontale?",
     "answers": [
       {
         "text": "La navigazione tra elementi della gerarchia informativa che hanno una relazione padre figlio",
@@ -2711,7 +2711,7 @@
     "image": ""
   },
   {
-    "quest": "154) Nell’ambito dell’architettura dell’informazione, gli schemi organizzativi ambigui:",
+    "quest": "Nell’ambito dell’architettura dell’informazione, gli schemi organizzativi ambigui:",
     "answers": [
       {
         "text": "includono gli schemi cronologici",
@@ -2734,7 +2734,7 @@
     "image": ""
   },
   {
-    "quest": "155) La tastiera Michela è un particolare tipo di dispositivo per l’input del testo:",
+    "quest": "La tastiera Michela è un particolare tipo di dispositivo per l’input del testo:",
     "answers": [
       {
         "text": "che ha lo stesso layout fisico di una tastiera DVORAK",
@@ -2757,7 +2757,7 @@
     "image": ""
   },
   {
-    "quest": "156) È corretto dire che, nel contesto del tempo di risposta a uno stimolo, il tempo motorio:",
+    "quest": "È corretto dire che, nel contesto del tempo di risposta a uno stimolo, il tempo motorio:",
     "answers": [
       {
         "text": "dipende dall’età",
@@ -2776,7 +2776,7 @@
     "image": ""
   },
   {
-    "quest": "158) Quali dei seguenti widget implementa un sistema di navigazione verticale?",
+    "quest": "Quali dei seguenti widget implementa un sistema di navigazione verticale?",
     "answers": [
       {
         "text": "1",
@@ -2803,7 +2803,7 @@
     "image": "images/158.png"
   },
   {
-    "quest": "159) Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta narrative storyboard:",
+    "quest": "Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta narrative storyboard:",
     "answers": [
       {
         "text": "permette anche la definizione di percorsi non lineari",
@@ -2826,7 +2826,7 @@
     "image": ""
   },
   {
-    "quest": "160) Nell’ambito dell’architettura dell’informazione, gli schemi organizzativi per argomento:",
+    "quest": "Nell’ambito dell’architettura dell’informazione, gli schemi organizzativi per argomento:",
     "answers": [
       {
         "text": "appartengono alla stessa categoria degli schemi organizzativi geografici",
@@ -2849,7 +2849,7 @@
     "image": ""
   },
   {
-    "quest": "161) È corretto affermare che la cosiddetta calm technology:",
+    "quest": "È corretto affermare che la cosiddetta calm technology:",
     "answers": [
       {
         "text": "richiede di essere costantemente al centro della nostra attenzione",
@@ -2872,7 +2872,7 @@
     "image": ""
   },
   {
-    "quest": "162) Quali delle seguenti strategie non viene descritta per la ricerca delle informazioni in un determinato dominio informativo?",
+    "quest": "Quali delle seguenti strategie non viene descritta per la ricerca delle informazioni in un determinato dominio informativo?",
     "answers": [
       {
         "text": "exaustive seeking (ricerca esaustiva)",
@@ -2895,7 +2895,7 @@
     "image": ""
   },
   {
-    "quest": "163) È corretto affermare che il formato adottato per il tastierino numerico telefonico:",
+    "quest": "È corretto affermare che il formato adottato per il tastierino numerico telefonico:",
     "answers": [
       {
         "text": "è un caso evidente di inerzia tecnologica",
@@ -2918,7 +2918,7 @@
     "image": ""
   },
   {
-    "quest": "164) Che cosa differenzia il modello di interazione implicita dall’interaction framework?",
+    "quest": "Che cosa differenzia il modello di interazione implicita dall’ interaction framework?",
     "answers": [
       {
         "text": "Non c’è alcuna differenza, solo un modo diverso di definire gli elementi che descrivono l’interazione",
@@ -2941,7 +2941,7 @@
     "image": ""
   },
   {
-    "quest": "165) È corretto affermare che la Legge di Fitts:",
+    "quest": "È corretto affermare che la Legge di Fitts:",
     "answers": [
       {
         "text": "riguarda il tempo motorio",
@@ -2960,7 +2960,7 @@
     "image": ""
   },
   {
-    "quest": "166) Quali delle seguenti caratteristiche non contraddistingue le interfacce a manipolazione diretta?",
+    "quest": "Quali delle seguenti caratteristiche non contraddistingue le interfacce a manipolazione diretta?",
     "answers": [
       {
         "text": "le azioni incrementali",
@@ -2983,7 +2983,7 @@
     "image": ""
   },
   {
-    "quest": "167) Che cosa si intende per gesto simbolico?",
+    "quest": "Che cosa si intende per gesto simbolico?",
     "answers": [
       {
         "text": "È un gesto che imita l’azione nel mondo reale",
@@ -3002,7 +3002,7 @@
     "image": ""
   },
   {
-    "quest": "168) Quali dei seguenti widget implementa un sistema di navigazione orizzontale?",
+    "quest": "Quali dei seguenti widget implementa un sistema di navigazione orizzontale?",
     "answers": [
       {
         "text": "1",
@@ -3029,7 +3029,7 @@
     "image": "images/168.png"
   },
   {
-    "quest": "169) Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
+    "quest": "Quale principio delle interfacce utente suggerisce che gli oggetti e le azioni dovrebbero essere visibili all’utente?",
     "answers": [
       {
         "text": "Affordance",
@@ -3052,7 +3052,7 @@
     "image": ""
   },
   {
-    "quest": "170) Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
+    "quest": "Nel ciclo di Norman, quale fase comporta la valutazione dello stato del sistema rispetto agli obiettivi dell’utente?",
     "answers": [
       {
         "text": "Formulazione delle intenzioni",
@@ -3075,7 +3075,7 @@
     "image": ""
   },
   {
-    "quest": "171) Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
+    "quest": "Quale tra i seguenti è un esempio di output implicito nei sistemi pervasivi?",
     "answers": [
       {
         "text": "Una notifica su smartphone",
@@ -3098,7 +3098,7 @@
     "image": ""
   },
   {
-    "quest": "172) Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
+    "quest": "Nella realtà aumentata, che cosa caratterizza il tracciamento 'markerless'?",
     "answers": [
       {
         "text": "Utilizza codici QR",
@@ -3121,7 +3121,7 @@
     "image": ""
   },
   {
-    "quest": "173) Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
+    "quest": "Nel design per utenti senior, quale linea guida è particolarmente rilevante?",
     "answers": [
       {
         "text": "Uso di colori accesi",
@@ -3144,7 +3144,7 @@
     "image": ""
   },
   {
-    "quest": "174) Qual è uno dei concetti chiave dell’ubiquitous computing?",
+    "quest": "Qual è uno dei concetti chiave dell’ ubiquitous computing?",
     "answers": [
       {
         "text": "Interfaccia a finestre",
@@ -3167,7 +3167,7 @@
     "image": ""
   },
   {
-    "quest": "175) Cos'è la prossemica (proxemics)? ",
+    "quest": "Cos'è la prossemica (proxemics)? ",
     "answers": [
       {
         "text": "lo studio della postura",
@@ -3190,7 +3190,7 @@
     "image": ""
   },
   {
-    "quest": "176) Quale modello tratta l’interazione come traduzione tra linguaggi diversi?",
+    "quest": "Quale modello tratta l’interazione come traduzione tra linguaggi diversi?",
     "answers": [
       {
         "text": "Ciclo di Norman",
@@ -3213,7 +3213,7 @@
     "image": ""
   },
   {
-    "quest": "177) Nelle interfacce WIMP i radio button servono per: ",
+    "quest": "Nelle interfacce WIMP i radio button servono per: ",
     "answers": [
       {
         "text": "Selezionare più opzioni contemporaneamente",
@@ -3236,7 +3236,7 @@
     "image": ""
   },
   {
-    "quest": "178) Nell’ambito delle interfacce gestuali, i gesti manipolativi imitano:",
+    "quest": "Nell’ambito delle interfacce gestuali, i gesti manipolativi imitano:",
     "answers": [
       {
         "text": "Gesti culturali",
@@ -3259,7 +3259,7 @@
     "image": ""
   },
   {
-    "quest": "179) Nell’ambito delle interfacce intelligenti, quali sono i due principi chiave dell’intelligenza appropriata?",
+    "quest": "Nell’ambito delle interfacce intelligenti, quali sono i due principi chiave dell’intelligenza appropriata?",
     "answers": [
       {
         "text": "Essere bella e moderna",
@@ -3282,7 +3282,7 @@
     "image": ""
   },
   {
-    "quest": "180) L’open card sorting viene utilizzato per:",
+    "quest": "L’open card sorting viene utilizzato per:",
     "answers": [
       {
         "text": "Scegliere etichette e gruppi informativi",
@@ -3305,7 +3305,7 @@
     "image": ""
   },
   {
-    "quest": "181) In un sito web, quale delle seguenti azioni corrisponde ad effettuare una navigazione verticale?",
+    "quest": "In un sito web, quale delle seguenti azioni corrisponde ad effettuare una navigazione verticale?",
     "answers": [
       {
         "text": "Navigare tra figli dello stesso padre",
@@ -3328,7 +3328,7 @@
     "image": ""
   },
   {
-    "quest": "182) Qual è lo scopo principale dell’uso del contesto in un’interfaccia?",
+    "quest": "Qual è lo scopo principale dell’uso del contesto in un’interfaccia?",
     "answers": [
       {
         "text": "Aumentare i dati raccolti",
@@ -3351,7 +3351,7 @@
     "image": ""
   },
   {
-    "quest": "183) Qual è la principale differenza tra il modello di interazione di Norman e l’Interaction Framework?",
+    "quest": "Qual è la principale differenza tra il modello di interazione di Norman e l’Interaction Framework?",
     "answers": [
       {
         "text": "Il primo modello è più grafico",
@@ -3374,7 +3374,7 @@
     "image": ""
   },
   {
-    "quest": "184) Cosa sono i 6 gradi di libertà in un controller VR?",
+    "quest": "Cosa sono i 6 gradi di libertà in un controller VR?",
     "answers": [
       {
         "text": "Sei livelli di accesso",
@@ -3397,7 +3397,7 @@
     "image": ""
   },
   {
-    "quest": "185) Cosa aggiunge una storyboard narrativa sequenziale rispetto ad una storyboard sequenziale?",
+    "quest": "Cosa aggiunge una storyboard narrativa sequenziale rispetto ad una storyboard sequenziale?",
     "answers": [
       {
         "text": "Interfaccia",
@@ -3420,7 +3420,7 @@
     "image": ""
   },
   {
-    "quest": "186) Nell'ambito delle interfacce WIMP, a cosa serve una finestra modale?",
+    "quest": "Nell'ambito delle interfacce WIMP, a cosa serve una finestra modale?",
     "answers": [
       {
         "text": "Per organizzare icone",
@@ -3443,7 +3443,7 @@
     "image": ""
   },
   {
-    "quest": "187) Nelle interfacce WIMP i check button servono per:",
+    "quest": "Nelle interfacce WIMP i check button servono per:",
     "answers": [
       {
         "text": "Selezionare più opzioni contemporaneamente",
@@ -3466,7 +3466,7 @@
     "image": ""
   },
   {
-    "quest": "188) Nell’ambito delle interfacce gestuali, i gesti simbolici possono:",
+    "quest": "Nell’ambito delle interfacce gestuali, i gesti simbolici possono:",
     "answers": [
       {
         "text": "Essere compresi ovunque",
@@ -3489,7 +3489,7 @@
     "image": ""
   },
   {
-    "quest": "189) Il closed card sorting viene utilizzato per:",
+    "quest": "Il closed card sorting viene utilizzato per:",
     "answers": [
       {
         "text": "Validare etichette e gruppi informativi",
@@ -3512,7 +3512,7 @@
     "image": ""
   },
   {
-    "quest": "190) In un sito web, quale delle seguenti azioni corrisponde ad effettuare una navigazione orizzontale?",
+    "quest": "In un sito web, quale delle seguenti azioni corrisponde ad effettuare una navigazione orizzontale?",
     "answers": [
       {
         "text": "Navigare all’interno di una singola pagina",
@@ -3535,7 +3535,7 @@
     "image": ""
   },
   {
-    "quest": "191) Cos'è il punto cieco (blank spot) nell'occhio umano?",
+    "quest": "Cos'è il punto cieco (blank spot) nell'occhio umano?",
     "answers": [
       {
         "text": "Un'area senza recettori a causa del nervo ottico",
@@ -3558,7 +3558,7 @@
     "image": ""
   },
   {
-    "quest": "192) Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta branching storyboard si caratterizza sempre per:",
+    "quest": "Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta branching storyboard si caratterizza sempre per:",
     "answers": [
       {
         "text": "la rappresentazione di pattern di interazione non lineari",
@@ -3581,7 +3581,7 @@
     "image": ""
   },
   {
-    "quest": "193) Da cosa dipende il tempo motorio di risposta a uno stimolo?",
+    "quest": "Da cosa dipende il tempo motorio di risposta a uno stimolo?",
     "answers": [
       {
         "text": "Dal canale sensoriale",
@@ -3604,7 +3604,7 @@
     "image": ""
   },
   {
-    "quest": "194) Cosa rende unica la tastiera Michela rispetto ad altre tastiere?",
+    "quest": "Cosa rende unica la tastiera Michela rispetto ad altre tastiere?",
     "answers": [
       {
         "text": "L'uso di un sistema QWERTY modificato",
@@ -3627,7 +3627,7 @@
     "image": ""
   },
   {
-    "quest": "195) Qual è il problema principale degli schemi organizzativi ambigui?",
+    "quest": "Qual è il problema principale degli schemi organizzativi ambigui?",
     "answers": [
       {
         "text": "Sono difficili da mantenere",
@@ -3650,7 +3650,7 @@
     "image": ""
   },
   {
-    "quest": "196) In che modo viene visto il problema dell'interazione nell'interaction framework?",
+    "quest": "In che modo viene visto il problema dell'interazione nell' interaction framework?",
     "answers": [
       {
         "text": "Come un problema di velocità",
@@ -3673,7 +3673,7 @@
     "image": ""
   },
   {
-    "quest": "197) Perché non percepiamo il punto cieco (blank spot) nella nostra visione quotidiana?",
+    "quest": "Perché non percepiamo il punto cieco (blank spot) nella nostra visione quotidiana?",
     "answers": [
       {
         "text": "Perché è molto piccolo",
@@ -3696,7 +3696,7 @@
     "image": ""
   },
   {
-    "quest": "198) Quale dei seguenti NON è un principio di usabilità di Nielsen?",
+    "quest": "Quale dei seguenti NON è un principio di usabilità di Nielsen?",
     "answers": [
       {
         "text": "Estetica e design minimalista",
@@ -3719,7 +3719,7 @@
     "image": ""
   },
   {
-    "quest": "199) Un prototipo verticale mostra:",
+    "quest": "Un prototipo verticale mostra:",
     "answers": [
       {
         "text": "Solo i dati dell’utente",
@@ -3742,7 +3742,7 @@
     "image": ""
   },
   {
-    "quest": "200) Si supponga di avere tre immagini: Immagine A 120 x 200 pixel, profondità colore 8 bit, densità 100 pixel per inch; Immagine B 200 x 120 pixel, profondità colore 8 bit, densità 200 pixel per inch; Immagine C 60 x 100 pixel, profondità colore 8 bit, densità 200 pixel per inch. Quali immagini hanno la dimensione maggiore in bytes?",
+    "quest": "Si supponga di avere tre immagini: \nImmagine A 120 x 200 pixel, profondità colore 8 bit, densità 100 pixel per inch; \nImmagine B 200 x 120 pixel, profondità colore 8 bit, densità 200 pixel per inch; \nImmagine C 60 x 100 pixel, profondità colore 8 bit, densità 200 pixel per inch. \nQuali immagini hanno la dimensione maggiore in bytes?",
     "answers": [
       {
         "text": "Immagini B e C",
@@ -3765,7 +3765,7 @@
     "image": ""
   },
   {
-    "quest": "201) Si supponga di avere tre immagini: Immagine A 100 x 150 pixel, profondità colore 24 bit, densità 150 pixel per inch; Immagine B 200 x 300 pixel, profondità colore 24 bit, densità 75 pixel per inch; Immagine C 300 x 200 pixel, profondità colore 24 bit, densità 150 pixel per inch. Quali immagini hanno la dimensione maggiore in bytes?",
+    "quest": "Si supponga di avere tre immagini: \nImmagine A 100 x 150 pixel, profondità colore 24 bit, densità 150 pixel per inch; \nImmagine B 200 x 300 pixel, profondità colore 24 bit, densità 75 pixel per inch; \nImmagine C 300 x 200 pixel, profondità colore 24 bit, densità 150 pixel per inch. \nQuali immagini hanno la dimensione maggiore in bytes?",
     "answers": [
       {
         "text": "Immagini B e C",
@@ -3788,7 +3788,7 @@
     "image": ""
   },
   {
-    "quest": "202) Da cosa dipende il tempo di reazione a uno stimolo?",
+    "quest": "Da cosa dipende il tempo di reazione a uno stimolo?",
     "answers": [
       {
         "text": "Dal canale sensoriale",
@@ -3811,7 +3811,7 @@
     "image": ""
   },
   {
-    "quest": "203) Qual è il problema principale degli schemi organizzativi esatti?",
+    "quest": "Qual è il problema principale degli schemi organizzativi esatti?",
     "answers": [
       {
         "text": "Sono difficili da mantenere",
@@ -3834,7 +3834,7 @@
     "image": ""
   },
   {
-    "quest": "204) Cosa rappresenta la tastiera Dvorak rispetto a quella QWERTY?",
+    "quest": "Cosa rappresenta la tastiera Dvorak rispetto a quella QWERTY?",
     "answers": [
       {
         "text": "Un'alternativa più efficiente per la digitazione",
@@ -3857,7 +3857,7 @@
     "image": ""
   },
   {
-    "quest": "205) Quale dei seguenti NON è un principio di usabilità di Nielsen?",
+    "quest": "Quale dei seguenti NON è un principio di usabilità di Nielsen?",
     "answers": [
       {
         "text": "Visibilità dello stato del sistema",
@@ -3880,7 +3880,7 @@
     "image": ""
   },
   {
-    "quest": "206) Un prototipo orizzontale mostra:",
+    "quest": "Un prototipo orizzontale mostra:",
     "answers": [
       {
         "text": "Solo poche features, ma completamente implementate",
@@ -3903,7 +3903,7 @@
     "image": ""
   },
   {
-    "quest": "207) Qual è l'implicazione del passaggio dall'informatica tradizionale all'ubiquitous computing (informatica pervasiva) sui modelli di interazione?",
+    "quest": "Qual è l'implicazione del passaggio dall'informatica tradizionale all' ubiquitous computing (informatica pervasiva) sui modelli di interazione?",
     "answers": [
       {
         "text": "I modelli di interazione rimangono invariati",
@@ -3926,7 +3926,7 @@
     "image": ""
   },
   {
-    "quest": "208) Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta narrative storyboard si caratterizza sempre per:",
+    "quest": "Nell’ambito delle tecniche di prototipazione di un’interfaccia, la cosiddetta narrative storyboard si caratterizza sempre per:",
     "answers": [
       {
         "text": "la rappresentazione del solo contesto dell'interazione",
@@ -3949,7 +3949,7 @@
     "image": ""
   },
   {
-    "quest": "209)  Indica, specificando un numero da 1 a 3 quale dei seguenti widget implementa un sistema di navigazione verticale:",
+    "quest": " Indica, specificando un numero da 1 a 3 quale dei seguenti widget implementa un sistema di navigazione verticale?",
     "answers": [
       {
         "text": "1",
@@ -3964,7 +3964,7 @@
         "image": ""
       }
     ],
-    "correct": 2,
+    "correct": 1,
     "image": "images/209.png"
   }
 ]
